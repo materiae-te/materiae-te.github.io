@@ -1,0 +1,822 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Materiae-TE | Thermoelectric Materials Database</title>
+    <style>
+        :root {
+            --primary: #1a5276;
+            --primary-light: #2980b9;
+            --bg: #f5f6fa;
+            --card-bg: #ffffff;
+            --text: #2c3e50;
+            --text-secondary: #7f8c8d;
+            --border: #e1e4e8;
+            --hover: #eaf2f8;
+            --shadow: 0 2px 8px rgba(0,0,0,0.06);
+            --shadow-lg: 0 8px 30px rgba(0,0,0,0.12);
+            --radius: 10px;
+            --transition: 0.2s ease;
+        }
+        * { margin:0; padding:0; box-sizing:border-box; }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+            background: var(--bg);
+            color: var(--text);
+            line-height: 1.6;
+        }
+
+        /* Header */
+        .header {
+            background: linear-gradient(135deg, #1a5276 0%, #1a6e8e 100%);
+            color: white;
+            padding: 16px 0;
+            box-shadow: 0 2px 12px rgba(0,0,0,0.12);
+            position: sticky;
+            top: 0;
+            z-index: 100;
+        }
+        .header-inner {
+            max-width: 1400px;
+            margin: 0 auto;
+            padding: 0 20px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            flex-wrap: wrap;
+            gap: 12px;
+        }
+        .header h1 { font-size: 1.4rem; font-weight: 700; }
+        .header h1 span { color: #f1c40f; }
+        .header-stats { font-size: 0.85rem; opacity: 0.85; }
+
+        /* Publication Banner */
+        .pub-banner {
+            background: linear-gradient(135deg, #fef9e7 0%, #fdebd0 100%);
+            border-bottom: 1px solid #f9e79f;
+            padding: 12px 0;
+        }
+        .pub-inner {
+            max-width: 1400px;
+            margin: 0 auto;
+            padding: 0 20px;
+            display: flex;
+            align-items: center;
+            flex-wrap: wrap;
+            gap: 10px 18px;
+            font-size: 0.85rem;
+        }
+        .pub-label {
+            background: #f39c12;
+            color: white;
+            padding: 3px 10px;
+            border-radius: 12px;
+            font-weight: 700;
+            font-size: 0.78rem;
+            white-space: nowrap;
+        }
+        .pub-title {
+            font-weight: 600;
+            color: #7d6608;
+        }
+        .pub-authors {
+            color: #666;
+            font-size: 0.82rem;
+        }
+        .pub-journal {
+            color: #935d0e;
+            font-size: 0.82rem;
+            white-space: nowrap;
+        }
+
+        /* Footer */
+        .footer {
+            text-align: center;
+            padding: 20px;
+            margin-top: 32px;
+            color: #999;
+            font-size: 0.82rem;
+            border-top: 1px solid #e1e4e8;
+        }
+
+        /* Search Bar */
+        .search-bar {
+            max-width: 1400px;
+            margin: 20px auto 0;
+            padding: 0 20px;
+            display: flex;
+            gap: 10px;
+            flex-wrap: wrap;
+        }
+        .search-bar input {
+            flex: 1;
+            min-width: 220px;
+            padding: 10px 16px;
+            border: 2px solid var(--border);
+            border-radius: 8px;
+            font-size: 0.95rem;
+            background: var(--card-bg);
+            transition: var(--transition);
+        }
+        .search-bar input:focus {
+            outline: none;
+            border-color: var(--primary-light);
+            box-shadow: 0 0 0 3px rgba(41,128,185,0.1);
+        }
+        .search-bar select {
+            padding: 10px 14px;
+            border: 2px solid var(--border);
+            border-radius: 8px;
+            font-size: 0.9rem;
+            background: var(--card-bg);
+            cursor: pointer;
+        }
+        .badge-filter {
+            display: inline-flex;
+            align-items: center;
+            gap: 4px;
+            padding: 8px 14px;
+            border: 2px solid var(--border);
+            border-radius: 20px;
+            font-size: 0.85rem;
+            cursor: pointer;
+            background: var(--card-bg);
+            transition: var(--transition);
+            user-select: none;
+        }
+        .badge-filter.active { background: var(--primary-light); color: white; border-color: var(--primary-light); }
+        .badge-filter:hover:not(.active) { background: var(--hover); }
+
+        /* Material Grid */
+        .materials-container {
+            max-width: 1400px;
+            margin: 16px auto;
+            padding: 0 20px;
+        }
+        .material-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+            gap: 14px;
+        }
+        .material-card {
+            background: var(--card-bg);
+            border-radius: var(--radius);
+            padding: 16px 14px;
+            box-shadow: var(--shadow);
+            cursor: pointer;
+            text-align: center;
+            transition: all var(--transition);
+            border: 2px solid transparent;
+            position: relative;
+            overflow: hidden;
+        }
+        .material-card:hover {
+            transform: translateY(-2px);
+            box-shadow: var(--shadow-lg);
+            border-color: var(--primary-light);
+        }
+        .material-card .mp-id {
+            font-family: 'SF Mono', 'Consolas', 'Monaco', monospace;
+            font-size: 0.85rem;
+            color: var(--primary-light);
+            font-weight: 600;
+            margin-bottom: 6px;
+        }
+        .material-card .formula {
+            font-size: 1.05rem;
+            font-weight: 700;
+            font-style: italic;
+            color: var(--text);
+            margin-bottom: 8px;
+        }
+        .material-card .zt-badge {
+            display: inline-block;
+            padding: 3px 10px;
+            border-radius: 12px;
+            font-size: 0.8rem;
+            font-weight: 600;
+        }
+        .zt-high { background: #d5f5e3; color: #1e8449; }
+        .zt-mid { background: #fef9e7; color: #b7950b; }
+        .zt-low { background: #f2f3f4; color: #7f8c8d; }
+        .material-card .icons {
+            display: flex;
+            justify-content: center;
+            gap: 6px;
+            margin-top: 8px;
+            font-size: 0.7rem;
+            color: var(--text-secondary);
+        }
+        .material-card .icons span {
+            padding: 2px 6px;
+            background: #f0f3f5;
+            border-radius: 4px;
+        }
+
+        /* Detail Overlay */
+        .overlay {
+            display: none;
+            position: fixed;
+            top: 0; left: 0;
+            width: 100%; height: 100%;
+            background: rgba(0,0,0,0.55);
+            z-index: 200;
+            overflow-y: auto;
+        }
+        .overlay.show { display: block; }
+        .detail-panel {
+            background: #f5f6fa;
+            max-width: 1200px;
+            margin: 30px auto;
+            border-radius: 14px;
+            box-shadow: 0 12px 40px rgba(0,0,0,0.2);
+            position: relative;
+            animation: slideIn 0.25s ease;
+        }
+        @keyframes slideIn {
+            from { opacity: 0; transform: translateY(20px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+        .detail-header {
+            background: linear-gradient(135deg, #1a5276, #1a6e8e);
+            color: white;
+            padding: 20px 28px;
+            border-radius: 14px 14px 0 0;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            flex-wrap: wrap;
+            gap: 12px;
+            position: sticky;
+            top: 0;
+            z-index: 10;
+        }
+        .detail-header h2 { font-size: 1.2rem; opacity: 0.9; font-weight: 500; }
+        .detail-formula { font-size: 2rem; font-weight: 700; font-style: italic; }
+        .detail-close {
+            background: rgba(255,255,255,0.15);
+            border: none;
+            color: white;
+            width: 38px; height: 38px;
+            border-radius: 50%;
+            font-size: 1.3rem;
+            cursor: pointer;
+            transition: 0.2s;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        .detail-close:hover { background: rgba(255,255,255,0.3); }
+
+        .detail-body { padding: 24px 28px 32px; }
+
+        .section-title {
+            font-size: 1.1rem;
+            color: var(--primary);
+            border-bottom: 3px solid var(--primary-light);
+            padding-bottom: 8px;
+            margin: 24px 0 16px;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        /* Image Grids */
+        .img-row {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(340px, 1fr));
+            gap: 18px;
+        }
+        .img-card {
+            background: white;
+            border-radius: var(--radius);
+            box-shadow: var(--shadow);
+            overflow: hidden;
+            transition: var(--transition);
+        }
+        .img-card:hover { box-shadow: var(--shadow-lg); }
+        .img-card .img-title {
+            background: #eaf2f8;
+            padding: 10px 14px;
+            font-weight: 600;
+            font-size: 0.85rem;
+            color: var(--primary);
+        }
+        .img-card img {
+            width: 100%;
+            display: block;
+            cursor: pointer;
+            transition: transform 0.2s;
+        }
+        .img-card img:hover { transform: scale(1.03); }
+
+        /* Temperature Tabs */
+        .tabs {
+            display: flex;
+            gap: 6px;
+            margin-bottom: 14px;
+            flex-wrap: wrap;
+        }
+        .tab {
+            padding: 8px 18px;
+            border: 2px solid var(--border);
+            border-radius: 20px;
+            background: white;
+            cursor: pointer;
+            font-weight: 600;
+            font-size: 0.9rem;
+            transition: var(--transition);
+        }
+        .tab.active { background: var(--primary-light); color: white; border-color: var(--primary-light); }
+        .tab:hover:not(.active) { background: var(--hover); }
+
+        /* Property tags */
+        .prop-tags {
+            display: flex;
+            gap: 6px;
+            flex-wrap: wrap;
+            margin-bottom: 14px;
+        }
+        .prop-tag {
+            padding: 5px 12px;
+            border-radius: 16px;
+            font-size: 0.78rem;
+            font-weight: 600;
+            cursor: pointer;
+            transition: var(--transition);
+            background: #f0f3f5;
+            border: 1px solid var(--border);
+        }
+        .prop-tag:hover { background: #d6eaf8; }
+        .prop-tag.active { background: var(--primary-light); color: white; border-color: var(--primary-light); }
+
+        /* Single image view in modal */
+        .single-img-view {
+            background: white;
+            border-radius: var(--radius);
+            box-shadow: var(--shadow);
+            overflow: hidden;
+        }
+        .single-img-view .img-title {
+            background: #eaf2f8;
+            padding: 10px 14px;
+            font-weight: 600;
+            font-size: 0.85rem;
+            color: var(--primary);
+        }
+        .single-img-view img {
+            width: 100%;
+            display: block;
+            cursor: pointer;
+        }
+
+        /* Doping table */
+        .table-wrap {
+            overflow-x: auto;
+            background: white;
+            border-radius: var(--radius);
+            box-shadow: var(--shadow);
+        }
+        .data-table {
+            width: 100%;
+            border-collapse: collapse;
+            font-size: 0.82rem;
+        }
+        .data-table th {
+            background: #eaf2f8;
+            padding: 8px 10px;
+            text-align: left;
+            font-weight: 600;
+            white-space: nowrap;
+            position: sticky;
+            top: 0;
+        }
+        .data-table td {
+            padding: 6px 10px;
+            border-bottom: 1px solid var(--border);
+            white-space: nowrap;
+        }
+
+        /* Lightbox */
+        .lightbox {
+            display: none;
+            position: fixed;
+            top: 0; left: 0;
+            width: 100%; height: 100%;
+            background: rgba(0,0,0,0.92);
+            z-index: 300;
+            cursor: pointer;
+            justify-content: center;
+            align-items: center;
+        }
+        .lightbox.show { display: flex; }
+        .lightbox img {
+            max-width: 96vw;
+            max-height: 96vh;
+            object-fit: contain;
+            border-radius: 4px;
+        }
+        .lightbox-close {
+            position: absolute;
+            top: 16px;
+            right: 20px;
+            color: white;
+            font-size: 2rem;
+            cursor: pointer;
+            z-index: 301;
+            width: 44px;
+            height: 44px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            border-radius: 50%;
+            background: rgba(255,255,255,0.1);
+            border: none;
+        }
+        .lightbox-close:hover { background: rgba(255,255,255,0.25); }
+
+        /* Loading */
+        .spinner {
+            text-align: center;
+            padding: 60px;
+            color: var(--text-secondary);
+        }
+        .spinner::before {
+            content: '';
+            display: block;
+            width: 36px; height: 36px;
+            border: 3px solid var(--border);
+            border-top-color: var(--primary-light);
+            border-radius: 50%;
+            animation: spin 0.8s linear infinite;
+            margin: 0 auto 12px;
+        }
+        @keyframes spin { to { transform: rotate(360deg); } }
+
+        .no-results {
+            text-align: center;
+            padding: 48px;
+            color: var(--text-secondary);
+            grid-column: 1 / -1;
+        }
+
+        /* Responsive */
+        @media (max-width: 768px) {
+            .header h1 { font-size: 1.1rem; }
+            .material-grid { grid-template-columns: repeat(auto-fill, minmax(140px, 1fr)); gap: 10px; }
+            .img-row { grid-template-columns: 1fr; }
+            .detail-body { padding: 14px; }
+            .detail-header { padding: 14px; }
+            .detail-formula { font-size: 1.4rem; }
+            .search-bar { flex-direction: column; }
+        }
+    </style>
+</head>
+<body>
+
+<!-- Header -->
+<div class="header">
+    <div class="header-inner">
+        <h1>🔬 Materiae-<span>TE</span> · Thermoelectric Materials Database</h1>
+        <div class="header-stats" id="header-stats">Loading...</div>
+    </div>
+</div>
+
+<!-- Publication Banner -->
+<div class="pub-banner">
+    <div class="pub-inner">
+        <span class="pub-label">📄 Publication</span>
+        <span class="pub-title">Thermoelectric semiconductor database: DFT-based discovery and experimental validation</span>
+        <span class="pub-authors">Yujie Xia#, Mingran Kong#, Pu Miao#, Xiangjun Tan, Shaoqiu Lyu, Muzhi Wang, Tiejun Zhu, Chenguang Fu*, and Tiantian Zhang*</span>
+        <span class="pub-journal"><em>Physical Review B</em> <b>113</b>, 205203 (2026)</span>
+    </div>
+</div>
+
+<!-- Search & Filters -->
+<div class="search-bar">
+    <input type="text" id="search-input" placeholder="🔍 Search mp-ID or formula...">
+    <select id="zt-filter">
+        <option value="all">All ZT</option>
+        <option value="0.3">ZT ≥ 0.3</option>
+        <option value="0.5">ZT ≥ 0.5</option>
+        <option value="0.8">ZT ≥ 0.8</option>
+        <option value="1.0">ZT ≥ 1.0</option>
+        <option value="1.5">ZT ≥ 1.5</option>
+    </select>
+    <span class="badge-filter" id="filter-band" onclick="toggleFilter('band')">Band</span>
+    <span class="badge-filter" id="filter-disp" onclick="toggleFilter('disp')">Dispersion</span>
+    <span class="badge-filter" id="filter-lt" onclick="toggleFilter('lt')">κ Lattice</span>
+    <span class="badge-filter" id="filter-amset" onclick="toggleFilter('amset')">AMSET</span>
+</div>
+
+<!-- Materials Grid -->
+<div class="materials-container">
+    <div class="material-grid" id="material-grid">
+        <div class="spinner" style="grid-column:1/-1;">Loading materials...</div>
+    </div>
+</div>
+
+<!-- Footer -->
+<div class="footer">
+    © 2025 Copyright · Institute of Theoretical Physics, Chinese Academy of Sciences
+</div>
+
+<!-- Detail Overlay -->
+<div class="overlay" id="overlay">
+    <div class="detail-panel" id="detail-panel"></div>
+</div>
+
+<!-- Lightbox -->
+<div class="lightbox" id="lightbox" onclick="closeLightbox()">
+    <button class="lightbox-close" onclick="closeLightbox()">✕</button>
+    <img id="lightbox-img" src="" alt="">
+</div>
+
+<script>
+let allMaterials = [];
+let activeFilters = { band: false, disp: false, lt: false, amset: false };
+let fullDataCache = null;
+
+// ============================================================
+// INIT
+// ============================================================
+async function init() {
+    try {
+        const resp = await fetch('data/summary.json');
+        allMaterials = await resp.json();
+        // Sort by mp-ID numerically
+        allMaterials.sort((a, b) => {
+            const na = parseInt(a.id.replace('mp-', ''));
+            const nb = parseInt(b.id.replace('mp-', ''));
+            return na - nb;
+        });
+        document.getElementById('header-stats').innerHTML =
+            `<b>${allMaterials.length}</b> materials · Max ZT: <b>${allMaterials.reduce((m,x)=>Math.max(m,x.best_ZT||0),0).toFixed(3)}</b>`;
+        renderGrid(allMaterials);
+    } catch(e) {
+        document.getElementById('material-grid').innerHTML =
+            '<div class="no-results">⚠️ Failed to load data. Please try again.</div>';
+    }
+}
+
+// ============================================================
+// RENDER GRID
+// ============================================================
+function renderGrid(materials) {
+    const grid = document.getElementById('material-grid');
+    if (!materials.length) {
+        grid.innerHTML = '<div class="no-results">No materials found.</div>';
+        return;
+    }
+
+    grid.innerHTML = materials.map(m => {
+        const zt = m.best_ZT || 0;
+        const ztClass = zt >= 1.0 ? 'zt-high' : zt >= 0.5 ? 'zt-mid' : 'zt-low';
+        const ztText = zt > 0 ? zt.toFixed(3) : '-';
+
+        let icons = '';
+        if (m.has_band) icons += '<span>📊Band</span>';
+        if (m.has_dispersion) icons += '<span>🔊Disp</span>';
+        if (m.has_lattice_thermal) icons += '<span>🔥κ</span>';
+        if (m.amset_count >= 15) icons += '<span>⚡TE</span>';
+
+        return `<div class="material-card" onclick="openDetail('${m.id}')">
+            <div class="mp-id">${m.id}</div>
+            <div class="formula">${m.formula || 'Unknown'}</div>
+            <div class="zt-badge ${ztClass}">ZT ${ztText}</div>
+            <div class="icons">${icons || '-'}</div>
+        </div>`;
+    }).join('');
+}
+
+// ============================================================
+// SEARCH & FILTERS
+// ============================================================
+document.getElementById('search-input').addEventListener('input', applyFilters);
+document.getElementById('zt-filter').addEventListener('change', applyFilters);
+
+function toggleFilter(type) {
+    activeFilters[type] = !activeFilters[type];
+    document.getElementById(`filter-${type}`).classList.toggle('active', activeFilters[type]);
+    applyFilters();
+}
+
+function applyFilters() {
+    const query = document.getElementById('search-input').value.toLowerCase().trim();
+    const ztMin = parseFloat(document.getElementById('zt-filter').value) || 0;
+
+    let filtered = allMaterials;
+
+    if (query) {
+        filtered = filtered.filter(m =>
+            m.id.toLowerCase().includes(query) ||
+            (m.formula || '').toLowerCase().includes(query)
+        );
+    }
+    if (ztMin > 0) {
+        filtered = filtered.filter(m => (m.best_ZT || 0) >= ztMin);
+    }
+    if (activeFilters.band) filtered = filtered.filter(m => m.has_band);
+    if (activeFilters.disp) filtered = filtered.filter(m => m.has_dispersion);
+    if (activeFilters.lt) filtered = filtered.filter(m => m.has_lattice_thermal);
+    if (activeFilters.amset) filtered = filtered.filter(m => m.amset_count >= 15);
+
+    renderGrid(filtered);
+    document.getElementById('material-grid').scrollIntoView({ behavior: 'smooth', block: 'start' });
+}
+
+// ============================================================
+// DETAIL VIEW
+// ============================================================
+async function openDetail(mpId) {
+    // Load full data if needed
+    if (!fullDataCache) {
+        try {
+            const resp = await fetch('data/materials.json');
+            fullDataCache = await resp.json();
+        } catch(e) {
+            console.error('Failed to load detail data');
+            return;
+        }
+    }
+
+    const mat = fullDataCache.find(m => m.id === mpId);
+    if (!mat) return;
+
+    const overlay = document.getElementById('overlay');
+    const panel = document.getElementById('detail-panel');
+
+    panel.innerHTML = buildDetailHTML(mat);
+    overlay.classList.add('show');
+    document.body.style.overflow = 'hidden';
+    overlay.scrollTop = 0;
+}
+
+function buildDetailHTML(mat) {
+    let html = '';
+
+    // Header
+    html += `<div class="detail-header">
+        <div>
+            <h2>${mat.id}</h2>
+            <div class="detail-formula">${mat.formula || 'Unknown'}</div>
+        </div>
+        <div style="display:flex;align-items:center;gap:16px;">
+            <span style="font-size:0.9rem;opacity:0.85;">
+                Band Gap: ${mat.indirect_band_gap || mat.direct_band_gap || 'N/A'} eV
+                · Best ZT: ${mat.best_ZT ? mat.best_ZT.toFixed(4) : 'N/A'}
+            </span>
+            <button class="detail-close" onclick="closeDetail()">✕</button>
+        </div>
+    </div>`;
+
+    html += '<div class="detail-body">';
+
+    // === Band, Dispersion, Lattice Thermal ===
+    html += `<div class="section-title">📊 Electronic & Phonon Properties</div>`;
+    html += '<div class="img-row">';
+
+    if (mat.has_band) {
+        html += `<div class="img-card">
+            <div class="img-title">Electronic Band Structure</div>
+            <img src="images/${mat.id}/band.png" alt="Band Structure" loading="lazy" onclick="event.stopPropagation();openLightbox(this.src)">
+        </div>`;
+    }
+    if (mat.has_dispersion) {
+        html += `<div class="img-card">
+            <div class="img-title">Phonon Dispersion</div>
+            <img src="images/${mat.id}/dispersion.png" alt="Phonon Dispersion" loading="lazy" onclick="event.stopPropagation();openLightbox(this.src)">
+        </div>`;
+    }
+    if (mat.has_lattice_thermal) {
+        html += `<div class="img-card">
+            <div class="img-title">Lattice Thermal Conductivity</div>
+            <img src="images/${mat.id}/lattice_thermal.png" alt="Lattice Thermal Conductivity" loading="lazy" onclick="event.stopPropagation();openLightbox(this.src)">
+        </div>`;
+    }
+    html += '</div>';
+
+    // === AMSET Properties ===
+    const hasAmset = mat.has_amset && Object.values(mat.has_amset).some(t =>
+        t && Object.values(t).some(v => v === true)
+    );
+
+    if (hasAmset) {
+        html += `<div class="section-title">⚡ AMSET Thermoelectric Properties</div>`;
+
+        // Temperature tabs
+        html += `<div class="tabs">
+            <button class="tab active" onclick="switchTemp('${mat.id}', '300K', this)">🌡 300 K</button>
+            <button class="tab" onclick="switchTemp('${mat.id}', '500K', this)">🌡 500 K</button>
+            <button class="tab" onclick="switchTemp('${mat.id}', '700K', this)">🌡 700 K</button>
+        </div>`;
+
+        // Property tabs
+        html += `<div class="prop-tags">
+            <span class="prop-tag active" onclick="switchProp('${mat.id}', 'PF', this)">PF</span>
+            <span class="prop-tag" onclick="switchProp('${mat.id}', 'ZT', this)">ZT</span>
+            <span class="prop-tag" onclick="switchProp('${mat.id}', 'ke', this)">κₑ</span>
+            <span class="prop-tag" onclick="switchProp('${mat.id}', 'seebeck', this)">Seebeck</span>
+            <span class="prop-tag" onclick="switchProp('${mat.id}', 'sigma', this)">σ</span>
+        </div>`;
+
+        // Single image display area
+        html += `<div class="single-img-view" id="amset-view-${mat.id}" data-temp="300K" data-prop="PF">`;
+        html += buildAmsetView(mat, '300K', 'PF');
+        html += '</div>';
+    }
+
+    html += '</div>'; // detail-body
+    return html;
+}
+
+function buildAmsetView(mat, temp, prop) {
+    const labels = {
+        'PF': 'Power Factor',
+        'ZT': 'Figure of Merit (ZT)',
+        'ke': 'Electronic Thermal Conductivity',
+        'seebeck': 'Seebeck Coefficient',
+        'sigma': 'Electrical Conductivity'
+    };
+    const hasIt = mat.has_amset && mat.has_amset[temp] && mat.has_amset[temp][prop];
+    if (!hasIt) {
+        return `<div class="img-title">${labels[prop] || prop} @ ${temp}</div>
+            <div style="padding:40px;text-align:center;color:#999;">Image not available</div>`;
+    }
+    return `<div class="img-title">${labels[prop] || prop} @ ${temp}</div>
+        <img src="images/${mat.id}/amset/${temp}/${prop}.png" alt="${labels[prop]} @ ${temp}"
+             loading="lazy" onclick="event.stopPropagation();openLightbox(this.src)">`;
+}
+
+function switchTemp(matId, temp, btn) {
+    // Update active temp tab
+    btn.parentElement.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
+    btn.classList.add('active');
+    // Store current temp on container
+    const view = document.getElementById(`amset-view-${matId}`);
+    if (view) view.setAttribute('data-temp', temp);
+    // Get current prop from container
+    const propKey = view ? (view.getAttribute('data-prop') || 'PF') : 'PF';
+
+    if (!view || !fullDataCache) return;
+    const mat = fullDataCache.find(m => m.id === matId);
+    if (!mat) return;
+    view.innerHTML = buildAmsetView(mat, temp, propKey);
+}
+
+function switchProp(matId, propKey, btn) {
+    // Update active prop tag
+    btn.parentElement.querySelectorAll('.prop-tag').forEach(t => t.classList.remove('active'));
+    btn.classList.add('active');
+    // Read current temp from container
+    const view = document.getElementById(`amset-view-${matId}`);
+    if (view) view.setAttribute('data-prop', propKey);
+    const temp = view ? (view.getAttribute('data-temp') || '300K') : '300K';
+
+    if (!view || !fullDataCache) return;
+    const mat = fullDataCache.find(m => m.id === matId);
+    if (!mat) return;
+    view.innerHTML = buildAmsetView(mat, temp, propKey);
+}
+
+function closeDetail() {
+    document.getElementById('overlay').classList.remove('show');
+    document.body.style.overflow = '';
+}
+
+document.getElementById('overlay').addEventListener('click', function(e) {
+    if (e.target === this) closeDetail();
+});
+
+// ============================================================
+// LIGHTBOX
+// ============================================================
+function openLightbox(src) {
+    document.getElementById('lightbox-img').src = src;
+    document.getElementById('lightbox').classList.add('show');
+    document.body.style.overflow = 'hidden';
+}
+function closeLightbox() {
+    document.getElementById('lightbox').classList.remove('show');
+    document.body.style.overflow = '';
+}
+
+// ============================================================
+// KEYBOARD
+// ============================================================
+document.addEventListener('keydown', function(e) {
+    if (e.key === 'Escape') {
+        if (document.getElementById('lightbox').classList.contains('show')) {
+            closeLightbox();
+        } else if (document.getElementById('overlay').classList.contains('show')) {
+            closeDetail();
+        }
+    }
+});
+
+// Start
+init();
+</script>
+</body>
+</html>
