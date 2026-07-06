@@ -659,8 +659,11 @@ function buildDetailHTML(mat) {
         </div>
         <div style="display:flex;align-items:center;gap:16px;">
             <span style="font-size:0.9rem;opacity:0.85;">
+                ${mat.space_group_type ? 'Space Group: ' + mat.space_group_type + ' (#' + mat.space_group + ')' : ''}
+                ${mat.point_group ? ' · Point Group: ' + mat.point_group : ''}
+                <br>
                 Band Gap: ${mat.indirect_band_gap || mat.direct_band_gap || 'N/A'} eV
-                · Best ZT: ${mat.best_ZT ? mat.best_ZT.toFixed(4) : 'N/A'}
+                ${mat.band_character ? ' (' + mat.band_character + ')' : ''}
             </span>
             <button class="detail-close" onclick="closeDetail()">✕</button>
         </div>

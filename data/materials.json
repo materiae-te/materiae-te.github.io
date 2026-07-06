@@ -187,7 +187,12 @@
       }
     },
     "best_ZT": 0.0899,
-    "best_PF": 0.0007
+    "best_PF": 0.0007,
+    "space_group": "166",
+    "space_group_type": "R-3m",
+    "point_group": "-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "1.2538"
   },
   {
     "id": "mp-1001786",
@@ -377,7 +382,12 @@
       }
     },
     "best_ZT": 0.092,
-    "best_PF": 0.0021
+    "best_PF": 0.0021,
+    "space_group": "166",
+    "space_group_type": "R-3m",
+    "point_group": "-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "1.4816"
   },
   {
     "id": "mp-1006888",
@@ -567,7 +577,12 @@
       }
     },
     "best_ZT": 0.0854,
-    "best_PF": 0.0017
+    "best_PF": 0.0017,
+    "space_group": "166",
+    "space_group_type": "R-3m",
+    "point_group": "-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "2.3329"
   },
   {
     "id": "mp-1006891",
@@ -757,7 +772,12 @@
       }
     },
     "best_ZT": 0.0952,
-    "best_PF": 0.0012
+    "best_PF": 0.0012,
+    "space_group": "166",
+    "space_group_type": "R-3m",
+    "point_group": "-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "1.8839"
   },
   {
     "id": "mp-1007636",
@@ -947,7 +967,12 @@
       }
     },
     "best_ZT": 0.0679,
-    "best_PF": 0.0012
+    "best_PF": 0.0012,
+    "space_group": "166",
+    "space_group_type": "R-3m",
+    "point_group": "-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "2.4027"
   },
   {
     "id": "mp-1007663",
@@ -1434,7 +1459,12 @@
       }
     },
     "best_ZT": 0.4139,
-    "best_PF": 0.0021
+    "best_PF": 0.0021,
+    "space_group": "166",
+    "space_group_type": "R-3m",
+    "point_group": "-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "0.6264"
   },
   {
     "id": "mp-1007665",
@@ -1624,7 +1654,12 @@
       }
     },
     "best_ZT": 0.088,
-    "best_PF": 0.0009
+    "best_PF": 0.0009,
+    "space_group": "166",
+    "space_group_type": "R-3m",
+    "point_group": "-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "1.4736"
   },
   {
     "id": "mp-1007907",
@@ -1814,7 +1849,12 @@
       }
     },
     "best_ZT": 0.4694,
-    "best_PF": 0.0021
+    "best_PF": 0.0021,
+    "space_group": "166",
+    "space_group_type": "R-3m",
+    "point_group": "-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "0.6381"
   },
   {
     "id": "mp-1007908",
@@ -2004,7 +2044,12 @@
       }
     },
     "best_ZT": 0.4977,
-    "best_PF": 0.002
+    "best_PF": 0.002,
+    "space_group": "166",
+    "space_group_type": "R-3m",
+    "point_group": "-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "0.6194"
   },
   {
     "id": "mp-1008506",
@@ -2194,7 +2239,12 @@
       }
     },
     "best_ZT": 0.283,
-    "best_PF": 0.0088
+    "best_PF": 0.0088,
+    "space_group": "156",
+    "space_group_type": "P3m1",
+    "point_group": "3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "0.5147"
   },
   {
     "id": "mp-1008561",
@@ -2384,7 +2434,12 @@
       }
     },
     "best_ZT": 0.4616,
-    "best_PF": 0.0024
+    "best_PF": 0.0024,
+    "space_group": "166",
+    "space_group_type": "R-3m",
+    "point_group": "-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "0.6493"
   },
   {
     "id": "mp-1008680",
@@ -2574,7 +2629,12 @@
       }
     },
     "best_ZT": 0.3955,
-    "best_PF": 0.0079
+    "best_PF": 0.0079,
+    "space_group": "216",
+    "space_group_type": "F-43m",
+    "point_group": "-43m",
+    "band_character": "Indirect",
+    "band_gap_csv": "0.8781"
   },
   {
     "id": "mp-1008858",
@@ -2764,7 +2824,12 @@
       }
     },
     "best_ZT": 2.0217,
-    "best_PF": 0.0706
+    "best_PF": 0.0706,
+    "space_group": "216",
+    "space_group_type": "F-43m",
+    "point_group": "-43m",
+    "band_character": "Direct",
+    "band_gap_csv": "0.1026"
   },
   {
     "id": "mp-1014244",
@@ -2954,7 +3019,12 @@
       }
     },
     "best_ZT": 0.2753,
-    "best_PF": 0.0101
+    "best_PF": 0.0101,
+    "space_group": "156",
+    "space_group_type": "P3m1",
+    "point_group": "3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "2.1166"
   },
   {
     "id": "mp-1014251",
@@ -3144,7 +3214,12 @@
       }
     },
     "best_ZT": 0.0637,
-    "best_PF": 0.0027
+    "best_PF": 0.0027,
+    "space_group": "156",
+    "space_group_type": "P3m1",
+    "point_group": "3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "2.3198"
   },
   {
     "id": "mp-1018025",
@@ -3334,7 +3409,12 @@
       }
     },
     "best_ZT": 0.0146,
-    "best_PF": 0.001
+    "best_PF": 0.001,
+    "space_group": "166",
+    "space_group_type": "R-3m",
+    "point_group": "-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "2.2456"
   },
   {
     "id": "mp-1018093",
@@ -3524,7 +3604,12 @@
       }
     },
     "best_ZT": 0.7503,
-    "best_PF": 0.0157
+    "best_PF": 0.0157,
+    "space_group": "156",
+    "space_group_type": "P3m1",
+    "point_group": "3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "0.4875"
   },
   {
     "id": "mp-1018094",
@@ -3714,7 +3799,12 @@
       }
     },
     "best_ZT": 0.3472,
-    "best_PF": 0.0064
+    "best_PF": 0.0064,
+    "space_group": "156",
+    "space_group_type": "P3m1",
+    "point_group": "3m",
+    "band_character": "Direct",
+    "band_gap_csv": "0.0617"
   },
   {
     "id": "mp-1018095",
@@ -3904,7 +3994,12 @@
       }
     },
     "best_ZT": 0.4024,
-    "best_PF": 0.0103
+    "best_PF": 0.0103,
+    "space_group": "156",
+    "space_group_type": "P3m1",
+    "point_group": "3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "0.0404"
   },
   {
     "id": "mp-1018098",
@@ -4391,7 +4486,12 @@
       }
     },
     "best_ZT": 0.1203,
-    "best_PF": 0.0005
+    "best_PF": 0.0005,
+    "space_group": "166",
+    "space_group_type": "R-3m",
+    "point_group": "-3m",
+    "band_character": "Direct",
+    "band_gap_csv": "1.1059"
   },
   {
     "id": "mp-1018099",
@@ -4581,7 +4681,12 @@
       }
     },
     "best_ZT": 0.1062,
-    "best_PF": 0.0005
+    "best_PF": 0.0005,
+    "space_group": "166",
+    "space_group_type": "R-3m",
+    "point_group": "-3m",
+    "band_character": "Direct",
+    "band_gap_csv": "1.0788"
   },
   {
     "id": "mp-1018139",
@@ -4771,7 +4876,12 @@
       }
     },
     "best_ZT": 3.5749,
-    "best_PF": 0.0242
+    "best_PF": 0.0242,
+    "space_group": "216",
+    "space_group_type": "F-43m",
+    "point_group": "-43m",
+    "band_character": "Indirect",
+    "band_gap_csv": "0.184"
   },
   {
     "id": "mp-10182",
@@ -4961,7 +5071,12 @@
       }
     },
     "best_ZT": 0.2399,
-    "best_PF": 0.0025
+    "best_PF": 0.0025,
+    "space_group": "216",
+    "space_group_type": "F-43m",
+    "point_group": "-43m",
+    "band_character": "Indirect",
+    "band_gap_csv": "1.3376"
   },
   {
     "id": "mp-1018737",
@@ -5151,7 +5266,12 @@
       }
     },
     "best_ZT": 0.0495,
-    "best_PF": 0.0008
+    "best_PF": 0.0008,
+    "space_group": "129",
+    "space_group_type": "P4/nmm",
+    "point_group": "4/mmm",
+    "band_character": "Indirect",
+    "band_gap_csv": "1.7023"
   },
   {
     "id": "mp-1018818",
@@ -5341,7 +5461,12 @@
       }
     },
     "best_ZT": 0.0555,
-    "best_PF": 0.0008
+    "best_PF": 0.0008,
+    "space_group": "129",
+    "space_group_type": "P4/nmm",
+    "point_group": "4/mmm",
+    "band_character": "Direct",
+    "band_gap_csv": "0.3882"
   },
   {
     "id": "mp-1018941",
@@ -5531,7 +5656,12 @@
       }
     },
     "best_ZT": 0.0567,
-    "best_PF": 0.0008
+    "best_PF": 0.0008,
+    "space_group": "129",
+    "space_group_type": "P4/nmm",
+    "point_group": "4/mmm",
+    "band_character": "Direct",
+    "band_gap_csv": "0.3972"
   },
   {
     "id": "mp-1019089",
@@ -5721,7 +5851,12 @@
       }
     },
     "best_ZT": 0.0659,
-    "best_PF": 0.0009
+    "best_PF": 0.0009,
+    "space_group": "129",
+    "space_group_type": "P4/nmm",
+    "point_group": "4/mmm",
+    "band_character": "Indirect",
+    "band_gap_csv": "1.1471"
   },
   {
     "id": "mp-1022",
@@ -5911,7 +6046,12 @@
       }
     },
     "best_ZT": 0.7846,
-    "best_PF": 0.0007
+    "best_PF": 0.0007,
+    "space_group": "225",
+    "space_group_type": "Fm-3m",
+    "point_group": "m-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "2.3705"
   },
   {
     "id": "mp-10226",
@@ -6101,7 +6241,12 @@
       }
     },
     "best_ZT": 0.093,
-    "best_PF": 0.0019
+    "best_PF": 0.0019,
+    "space_group": "166",
+    "space_group_type": "R-3m",
+    "point_group": "-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "2.2541"
   },
   {
     "id": "mp-1025029",
@@ -6291,7 +6436,12 @@
       }
     },
     "best_ZT": 0.0156,
-    "best_PF": 0.0011
+    "best_PF": 0.0011,
+    "space_group": "194",
+    "space_group_type": "P6_3/mmc",
+    "point_group": "6/mmm",
+    "band_character": "Direct",
+    "band_gap_csv": "1.946"
   },
   {
     "id": "mp-1039",
@@ -6481,7 +6631,12 @@
       }
     },
     "best_ZT": 0.0956,
-    "best_PF": 0.0008
+    "best_PF": 0.0008,
+    "space_group": "186",
+    "space_group_type": "P6_3mc",
+    "point_group": "6mm",
+    "band_character": "Direct",
+    "band_gap_csv": "2.3623"
   },
   {
     "id": "mp-10485",
@@ -6671,7 +6826,12 @@
       }
     },
     "best_ZT": 0.0764,
-    "best_PF": 0.0015
+    "best_PF": 0.0015,
+    "space_group": "194",
+    "space_group_type": "P6_3/mmc",
+    "point_group": "6/mmm",
+    "band_character": "Indirect",
+    "band_gap_csv": "0.6937"
   },
   {
     "id": "mp-1057286",
@@ -6861,7 +7021,12 @@
       }
     },
     "best_ZT": 0.0511,
-    "best_PF": 0.0005
+    "best_PF": 0.0005,
+    "space_group": "225",
+    "space_group_type": "Fm-3m",
+    "point_group": "m-3m",
+    "band_character": "Direct",
+    "band_gap_csv": "2.2687"
   },
   {
     "id": "mp-10616",
@@ -7051,7 +7216,12 @@
       }
     },
     "best_ZT": 0.1407,
-    "best_PF": 0.0017
+    "best_PF": 0.0017,
+    "space_group": "187",
+    "space_group_type": "P-6m2",
+    "point_group": "-6m2",
+    "band_character": "Direct",
+    "band_gap_csv": "0.5901"
   },
   {
     "id": "mp-10623",
@@ -7241,7 +7411,12 @@
       }
     },
     "best_ZT": 0.3931,
-    "best_PF": 0.0085
+    "best_PF": 0.0085,
+    "space_group": "216",
+    "space_group_type": "F-43m",
+    "point_group": "-43m",
+    "band_character": "Indirect",
+    "band_gap_csv": "0.7613"
   },
   {
     "id": "mp-1065514",
@@ -7431,7 +7606,12 @@
       }
     },
     "best_ZT": 0.3897,
-    "best_PF": 0.0018
+    "best_PF": 0.0018,
+    "space_group": "166",
+    "space_group_type": "R-3m",
+    "point_group": "-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "0.6117"
   },
   {
     "id": "mp-1065609",
@@ -7621,7 +7801,12 @@
       }
     },
     "best_ZT": 0.5052,
-    "best_PF": 0.0019
+    "best_PF": 0.0019,
+    "space_group": "166",
+    "space_group_type": "R-3m",
+    "point_group": "-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "0.5943"
   },
   {
     "id": "mp-1066791",
@@ -7811,7 +7996,12 @@
       }
     },
     "best_ZT": 0.0847,
-    "best_PF": 0.0009
+    "best_PF": 0.0009,
+    "space_group": "166",
+    "space_group_type": "R-3m",
+    "point_group": "-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "1.3535"
   },
   {
     "id": "mp-1067280",
@@ -8001,7 +8191,12 @@
       }
     },
     "best_ZT": 0.1722,
-    "best_PF": 0.0013
+    "best_PF": 0.0013,
+    "space_group": "166",
+    "space_group_type": "R-3m",
+    "point_group": "-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "1.1527"
   },
   {
     "id": "mp-1067744",
@@ -8191,7 +8386,12 @@
       }
     },
     "best_ZT": 0.2132,
-    "best_PF": 0.0021
+    "best_PF": 0.0021,
+    "space_group": "166",
+    "space_group_type": "R-3m",
+    "point_group": "-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "1.2309"
   },
   {
     "id": "mp-1070860",
@@ -8381,7 +8581,12 @@
       }
     },
     "best_ZT": 0.037,
-    "best_PF": 0.0007
+    "best_PF": 0.0007,
+    "space_group": "129",
+    "space_group_type": "P4/nmm",
+    "point_group": "4/mmm",
+    "band_character": "Direct",
+    "band_gap_csv": "3.3749"
   },
   {
     "id": "mp-1072114",
@@ -8571,7 +8776,12 @@
       }
     },
     "best_ZT": 0.0145,
-    "best_PF": 0.0005
+    "best_PF": 0.0005,
+    "space_group": "166",
+    "space_group_type": "R-3m",
+    "point_group": "-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "5.188"
   },
   {
     "id": "mp-1072193",
@@ -8761,7 +8971,12 @@
       }
     },
     "best_ZT": 0.0142,
-    "best_PF": 0.0004
+    "best_PF": 0.0004,
+    "space_group": "166",
+    "space_group_type": "R-3m",
+    "point_group": "-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "5.2725"
   },
   {
     "id": "mp-1072208",
@@ -8951,7 +9166,12 @@
       }
     },
     "best_ZT": 0.0134,
-    "best_PF": 0.0004
+    "best_PF": 0.0004,
+    "space_group": "166",
+    "space_group_type": "R-3m",
+    "point_group": "-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "5.1022"
   },
   {
     "id": "mp-10779",
@@ -9141,7 +9361,12 @@
       }
     },
     "best_ZT": 0.1444,
-    "best_PF": 0.0015
+    "best_PF": 0.0015,
+    "space_group": "166",
+    "space_group_type": "R-3m",
+    "point_group": "-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "1.8859"
   },
   {
     "id": "mp-10780",
@@ -9331,7 +9556,12 @@
       }
     },
     "best_ZT": 0.1184,
-    "best_PF": 0.0013
+    "best_PF": 0.0013,
+    "space_group": "166",
+    "space_group_type": "R-3m",
+    "point_group": "-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "1.8867"
   },
   {
     "id": "mp-10781",
@@ -9521,7 +9751,12 @@
       }
     },
     "best_ZT": 0.1026,
-    "best_PF": 0.0011
+    "best_PF": 0.0011,
+    "space_group": "166",
+    "space_group_type": "R-3m",
+    "point_group": "-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "1.9097"
   },
   {
     "id": "mp-10782",
@@ -9711,7 +9946,12 @@
       }
     },
     "best_ZT": 0.1217,
-    "best_PF": 0.0011
+    "best_PF": 0.0011,
+    "space_group": "166",
+    "space_group_type": "R-3m",
+    "point_group": "-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "1.9229"
   },
   {
     "id": "mp-10783",
@@ -9901,7 +10141,12 @@
       }
     },
     "best_ZT": 0.098,
-    "best_PF": 0.001
+    "best_PF": 0.001,
+    "space_group": "166",
+    "space_group_type": "R-3m",
+    "point_group": "-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "1.9248"
   },
   {
     "id": "mp-10784",
@@ -10091,7 +10336,12 @@
       }
     },
     "best_ZT": 0.0825,
-    "best_PF": 0.0009
+    "best_PF": 0.0009,
+    "space_group": "166",
+    "space_group_type": "R-3m",
+    "point_group": "-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "1.9638"
   },
   {
     "id": "mp-1087",
@@ -10281,7 +10531,12 @@
       }
     },
     "best_ZT": 0.049,
-    "best_PF": 0.0016
+    "best_PF": 0.0016,
+    "space_group": "225",
+    "space_group_type": "Fm-3m",
+    "point_group": "m-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "2.4721"
   },
   {
     "id": "mp-1093991",
@@ -10471,7 +10726,12 @@
       }
     },
     "best_ZT": 0.2607,
-    "best_PF": 0.0102
+    "best_PF": 0.0102,
+    "space_group": "216",
+    "space_group_type": "F-43m",
+    "point_group": "-43m",
+    "band_character": "Direct",
+    "band_gap_csv": "0.3124"
   },
   {
     "id": "mp-1094066",
@@ -10661,7 +10921,12 @@
       }
     },
     "best_ZT": 1.1322,
-    "best_PF": 0.0023
+    "best_PF": 0.0023,
+    "space_group": "160",
+    "space_group_type": "R3m",
+    "point_group": "3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "1.2077"
   },
   {
     "id": "mp-1094088",
@@ -10851,7 +11116,12 @@
       }
     },
     "best_ZT": 0.6177,
-    "best_PF": 0.0692
+    "best_PF": 0.0692,
+    "space_group": "216",
+    "space_group_type": "F-43m",
+    "point_group": "-43m",
+    "band_character": "Indirect",
+    "band_gap_csv": "0.9872"
   },
   {
     "id": "mp-10969",
@@ -11041,7 +11311,12 @@
       }
     },
     "best_ZT": 0.3027,
-    "best_PF": 0.0037
+    "best_PF": 0.0037,
+    "space_group": "166",
+    "space_group_type": "R-3m",
+    "point_group": "-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "2.3094"
   },
   {
     "id": "mp-1100398",
@@ -11231,7 +11506,12 @@
       }
     },
     "best_ZT": 0.0308,
-    "best_PF": 0.0065
+    "best_PF": 0.0065,
+    "space_group": "216",
+    "space_group_type": "F-43m",
+    "point_group": "-43m",
+    "band_character": "Indirect",
+    "band_gap_csv": "1.0188"
   },
   {
     "id": "mp-1100405",
@@ -11421,7 +11701,12 @@
       }
     },
     "best_ZT": 0.173,
-    "best_PF": 0.0042
+    "best_PF": 0.0042,
+    "space_group": "216",
+    "space_group_type": "F-43m",
+    "point_group": "-43m",
+    "band_character": "Direct",
+    "band_gap_csv": "0.4943"
   },
   {
     "id": "mp-1100408",
@@ -11611,7 +11896,12 @@
       }
     },
     "best_ZT": 0.5969,
-    "best_PF": 0.0183
+    "best_PF": 0.0183,
+    "space_group": "216",
+    "space_group_type": "F-43m",
+    "point_group": "-43m",
+    "band_character": "Indirect",
+    "band_gap_csv": "1.0712"
   },
   {
     "id": "mp-1100415",
@@ -11801,7 +12091,12 @@
       }
     },
     "best_ZT": 0.1457,
-    "best_PF": 0.0069
+    "best_PF": 0.0069,
+    "space_group": "216",
+    "space_group_type": "F-43m",
+    "point_group": "-43m",
+    "band_character": "Indirect",
+    "band_gap_csv": "1.1964"
   },
   {
     "id": "mp-1101401",
@@ -11991,7 +12286,12 @@
       }
     },
     "best_ZT": 0.0878,
-    "best_PF": 0.0017
+    "best_PF": 0.0017,
+    "space_group": "166",
+    "space_group_type": "R-3m",
+    "point_group": "-3m",
+    "band_character": "Direct",
+    "band_gap_csv": "3.4022"
   },
   {
     "id": "mp-1105",
@@ -12181,7 +12481,12 @@
       }
     },
     "best_ZT": 1.3383,
-    "best_PF": 0.0024
+    "best_PF": 0.0024,
+    "space_group": "139",
+    "space_group_type": "I4/mmm",
+    "point_group": "4/mmm",
+    "band_character": "Direct",
+    "band_gap_csv": "2.2509"
   },
   {
     "id": "mp-1115",
@@ -12371,7 +12676,12 @@
       }
     },
     "best_ZT": 0.2727,
-    "best_PF": 0.0053
+    "best_PF": 0.0053,
+    "space_group": "164",
+    "space_group_type": "P-3m1",
+    "point_group": "-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "0.3232"
   },
   {
     "id": "mp-11327",
@@ -12561,7 +12871,12 @@
       }
     },
     "best_ZT": 0.4414,
-    "best_PF": 0.003
+    "best_PF": 0.003,
+    "space_group": "225",
+    "space_group_type": "Fm-3m",
+    "point_group": "m-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "1.7995"
   },
   {
     "id": "mp-11520",
@@ -12751,7 +13066,12 @@
       }
     },
     "best_ZT": 0.2977,
-    "best_PF": 0.0092
+    "best_PF": 0.0092,
+    "space_group": "216",
+    "space_group_type": "F-43m",
+    "point_group": "-43m",
+    "band_character": "Indirect",
+    "band_gap_csv": "0.2937"
   },
   {
     "id": "mp-1153",
@@ -12941,7 +13261,12 @@
       }
     },
     "best_ZT": 0.9051,
-    "best_PF": 0.0011
+    "best_PF": 0.0011,
+    "space_group": "225",
+    "space_group_type": "Fm-3m",
+    "point_group": "m-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "3.3872"
   },
   {
     "id": "mp-11740",
@@ -13131,7 +13456,12 @@
       }
     },
     "best_ZT": 0.1254,
-    "best_PF": 0.001
+    "best_PF": 0.001,
+    "space_group": "166",
+    "space_group_type": "R-3m",
+    "point_group": "-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "1.257"
   },
   {
     "id": "mp-11742",
@@ -13321,7 +13651,12 @@
       }
     },
     "best_ZT": 0.1269,
-    "best_PF": 0.0009
+    "best_PF": 0.0009,
+    "space_group": "166",
+    "space_group_type": "R-3m",
+    "point_group": "-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "1.2891"
   },
   {
     "id": "mp-1178135",
@@ -13511,7 +13846,12 @@
       }
     },
     "best_ZT": 0.1363,
-    "best_PF": 0.0065
+    "best_PF": 0.0065,
+    "space_group": "166",
+    "space_group_type": "R-3m",
+    "point_group": "-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "4.2265"
   },
   {
     "id": "mp-1178141",
@@ -13701,7 +14041,12 @@
       }
     },
     "best_ZT": 0.2612,
-    "best_PF": 0.0106
+    "best_PF": 0.0106,
+    "space_group": "166",
+    "space_group_type": "R-3m",
+    "point_group": "-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "4.0069"
   },
   {
     "id": "mp-1178160",
@@ -13891,7 +14236,12 @@
       }
     },
     "best_ZT": 0.0476,
-    "best_PF": 0.0011
+    "best_PF": 0.0011,
+    "space_group": "129",
+    "space_group_type": "P4/nmm",
+    "point_group": "4/mmm",
+    "band_character": "Indirect",
+    "band_gap_csv": "4.4395"
   },
   {
     "id": "mp-1178362",
@@ -14081,7 +14431,12 @@
       }
     },
     "best_ZT": 0.0097,
-    "best_PF": 0.0005
+    "best_PF": 0.0005,
+    "space_group": "166",
+    "space_group_type": "R-3m",
+    "point_group": "-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "4.3696"
   },
   {
     "id": "mp-1183042",
@@ -14271,7 +14626,12 @@
       }
     },
     "best_ZT": 0.1943,
-    "best_PF": 0.0119
+    "best_PF": 0.0119,
+    "space_group": "225",
+    "space_group_type": "Fm-3m",
+    "point_group": "m-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "0.2732"
   },
   {
     "id": "mp-11836",
@@ -14461,7 +14821,12 @@
       }
     },
     "best_ZT": 1.2688,
-    "best_PF": 0.0123
+    "best_PF": 0.0123,
+    "space_group": "216",
+    "space_group_type": "F-43m",
+    "point_group": "-43m",
+    "band_character": "Indirect",
+    "band_gap_csv": "0.2097"
   },
   {
     "id": "mp-11869",
@@ -14651,7 +15016,12 @@
       }
     },
     "best_ZT": 0.213,
-    "best_PF": 0.0064
+    "best_PF": 0.0064,
+    "space_group": "216",
+    "space_group_type": "F-43m",
+    "point_group": "-43m",
+    "band_character": "Indirect",
+    "band_gap_csv": "0.3848"
   },
   {
     "id": "mp-1190",
@@ -14841,7 +15211,12 @@
       }
     },
     "best_ZT": 1.3046,
-    "best_PF": 0.0014
+    "best_PF": 0.0014,
+    "space_group": "216",
+    "space_group_type": "F-43m",
+    "point_group": "-43m",
+    "band_character": "Direct",
+    "band_gap_csv": "1.2046"
   },
   {
     "id": "mp-1206230",
@@ -15031,7 +15406,12 @@
       }
     },
     "best_ZT": 0.0356,
-    "best_PF": 0.0004
+    "best_PF": 0.0004,
+    "space_group": "12",
+    "space_group_type": "C2/m",
+    "point_group": "2/m",
+    "band_character": "Indirect",
+    "band_gap_csv": "1.3674"
   },
   {
     "id": "mp-1206278",
@@ -15221,7 +15601,12 @@
       }
     },
     "best_ZT": 0.3659,
-    "best_PF": 0.0123
+    "best_PF": 0.0123,
+    "space_group": "216",
+    "space_group_type": "F-43m",
+    "point_group": "-43m",
+    "band_character": "Indirect",
+    "band_gap_csv": "0.0225"
   },
   {
     "id": "mp-1206667",
@@ -15411,7 +15796,12 @@
       }
     },
     "best_ZT": 0.9199,
-    "best_PF": 0.0237
+    "best_PF": 0.0237,
+    "space_group": "216",
+    "space_group_type": "F-43m",
+    "point_group": "-43m",
+    "band_character": "Indirect",
+    "band_gap_csv": "0.326"
   },
   {
     "id": "mp-1206686",
@@ -15601,7 +15991,12 @@
       }
     },
     "best_ZT": 1.0409,
-    "best_PF": 0.021
+    "best_PF": 0.021,
+    "space_group": "216",
+    "space_group_type": "F-43m",
+    "point_group": "-43m",
+    "band_character": "Indirect",
+    "band_gap_csv": "0.2239"
   },
   {
     "id": "mp-1206712",
@@ -15791,7 +16186,12 @@
       }
     },
     "best_ZT": 2.3442,
-    "best_PF": 0.033
+    "best_PF": 0.033,
+    "space_group": "216",
+    "space_group_type": "F-43m",
+    "point_group": "-43m",
+    "band_character": "Indirect",
+    "band_gap_csv": "0.1627"
   },
   {
     "id": "mp-1206717",
@@ -15981,7 +16381,12 @@
       }
     },
     "best_ZT": 1.3665,
-    "best_PF": 0.0206
+    "best_PF": 0.0206,
+    "space_group": "216",
+    "space_group_type": "F-43m",
+    "point_group": "-43m",
+    "band_character": "Indirect",
+    "band_gap_csv": "0.3017"
   },
   {
     "id": "mp-1206719",
@@ -16171,7 +16576,12 @@
       }
     },
     "best_ZT": 2.3889,
-    "best_PF": 0.0179
+    "best_PF": 0.0179,
+    "space_group": "216",
+    "space_group_type": "F-43m",
+    "point_group": "-43m",
+    "band_character": "Indirect",
+    "band_gap_csv": "0.3207"
   },
   {
     "id": "mp-1206742",
@@ -16361,7 +16771,12 @@
       }
     },
     "best_ZT": 0.0157,
-    "best_PF": 0.0012
+    "best_PF": 0.0012,
+    "space_group": "187",
+    "space_group_type": "P-6m2",
+    "point_group": "-6m2",
+    "band_character": "Indirect",
+    "band_gap_csv": "1.4811"
   },
   {
     "id": "mp-1206843",
@@ -16551,7 +16966,12 @@
       }
     },
     "best_ZT": 0.0125,
-    "best_PF": 0.0011
+    "best_PF": 0.0011,
+    "space_group": "187",
+    "space_group_type": "P-6m2",
+    "point_group": "-6m2",
+    "band_character": "Indirect",
+    "band_gap_csv": "1.4586"
   },
   {
     "id": "mp-1206859",
@@ -16741,7 +17161,12 @@
       }
     },
     "best_ZT": 0.0424,
-    "best_PF": 0.001
+    "best_PF": 0.001,
+    "space_group": "129",
+    "space_group_type": "P4/nmm",
+    "point_group": "4/mmm",
+    "band_character": "Indirect",
+    "band_gap_csv": "4.3773"
   },
   {
     "id": "mp-1207056",
@@ -16931,7 +17356,12 @@
       }
     },
     "best_ZT": 0.7322,
-    "best_PF": 0.0112
+    "best_PF": 0.0112,
+    "space_group": "216",
+    "space_group_type": "F-43m",
+    "point_group": "-43m",
+    "band_character": "Indirect",
+    "band_gap_csv": "0.2298"
   },
   {
     "id": "mp-1207080",
@@ -17121,7 +17551,12 @@
       }
     },
     "best_ZT": 0.0104,
-    "best_PF": 0.0009
+    "best_PF": 0.0009,
+    "space_group": "187",
+    "space_group_type": "P-6m2",
+    "point_group": "-6m2",
+    "band_character": "Indirect",
+    "band_gap_csv": "1.5231"
   },
   {
     "id": "mp-1207082",
@@ -17311,7 +17746,12 @@
       }
     },
     "best_ZT": 0.0854,
-    "best_PF": 0.0023
+    "best_PF": 0.0023,
+    "space_group": "216",
+    "space_group_type": "F-43m",
+    "point_group": "-43m",
+    "band_character": "Indirect",
+    "band_gap_csv": "1.1859"
   },
   {
     "id": "mp-1207092",
@@ -17501,7 +17941,12 @@
       }
     },
     "best_ZT": 0.0109,
-    "best_PF": 0.0009
+    "best_PF": 0.0009,
+    "space_group": "187",
+    "space_group_type": "P-6m2",
+    "point_group": "-6m2",
+    "band_character": "Indirect",
+    "band_gap_csv": "1.5314"
   },
   {
     "id": "mp-1207095",
@@ -17691,7 +18136,12 @@
       }
     },
     "best_ZT": 0.1743,
-    "best_PF": 0.0354
+    "best_PF": 0.0354,
+    "space_group": "160",
+    "space_group_type": "R3m",
+    "point_group": "3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "1.5455"
   },
   {
     "id": "mp-1207108",
@@ -17881,7 +18331,12 @@
       }
     },
     "best_ZT": 0.5466,
-    "best_PF": 0.0271
+    "best_PF": 0.0271,
+    "space_group": "156",
+    "space_group_type": "P3m1",
+    "point_group": "3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "0.7462"
   },
   {
     "id": "mp-1207186",
@@ -18071,7 +18526,12 @@
       }
     },
     "best_ZT": 0.0105,
-    "best_PF": 0.0009
+    "best_PF": 0.0009,
+    "space_group": "187",
+    "space_group_type": "P-6m2",
+    "point_group": "-6m2",
+    "band_character": "Indirect",
+    "band_gap_csv": "1.5097"
   },
   {
     "id": "mp-1207192",
@@ -18261,7 +18721,12 @@
       }
     },
     "best_ZT": 0.0181,
-    "best_PF": 0.0011
+    "best_PF": 0.0011,
+    "space_group": "194",
+    "space_group_type": "P6_3/mmc",
+    "point_group": "6/mmm",
+    "band_character": "Direct",
+    "band_gap_csv": "1.9366"
   },
   {
     "id": "mp-1216",
@@ -18451,7 +18916,12 @@
       }
     },
     "best_ZT": 0.4547,
-    "best_PF": 0.0393
+    "best_PF": 0.0393,
+    "space_group": "225",
+    "space_group_type": "Fm-3m",
+    "point_group": "m-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "3.4119"
   },
   {
     "id": "mp-1217120",
@@ -18641,7 +19111,12 @@
       }
     },
     "best_ZT": 0.1114,
-    "best_PF": 0.0082
+    "best_PF": 0.0082,
+    "space_group": "160",
+    "space_group_type": "R3m",
+    "point_group": "3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "0.9946"
   },
   {
     "id": "mp-1220714",
@@ -18831,7 +19306,12 @@
       }
     },
     "best_ZT": 0.1253,
-    "best_PF": 0.0011
+    "best_PF": 0.0011,
+    "space_group": "166",
+    "space_group_type": "R-3m",
+    "point_group": "-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "2.5707"
   },
   {
     "id": "mp-1220883",
@@ -19021,7 +19501,12 @@
       }
     },
     "best_ZT": 0.5752,
-    "best_PF": 0.0053
+    "best_PF": 0.0053,
+    "space_group": "166",
+    "space_group_type": "R-3m",
+    "point_group": "-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "0.717"
   },
   {
     "id": "mp-1220912",
@@ -19211,7 +19696,12 @@
       }
     },
     "best_ZT": 0.1654,
-    "best_PF": 0.0024
+    "best_PF": 0.0024,
+    "space_group": "166",
+    "space_group_type": "R-3m",
+    "point_group": "-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "2.127"
   },
   {
     "id": "mp-1221101",
@@ -19401,7 +19891,12 @@
       }
     },
     "best_ZT": 0.3957,
-    "best_PF": 0.003
+    "best_PF": 0.003,
+    "space_group": "166",
+    "space_group_type": "R-3m",
+    "point_group": "-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "1.1229"
   },
   {
     "id": "mp-1221102",
@@ -19591,7 +20086,12 @@
       }
     },
     "best_ZT": 0.3965,
-    "best_PF": 0.0035
+    "best_PF": 0.0035,
+    "space_group": "166",
+    "space_group_type": "R-3m",
+    "point_group": "-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "1.0991"
   },
   {
     "id": "mp-1222296",
@@ -19781,7 +20281,12 @@
       }
     },
     "best_ZT": 0.0749,
-    "best_PF": 0.0008
+    "best_PF": 0.0008,
+    "space_group": "166",
+    "space_group_type": "R-3m",
+    "point_group": "-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "1.7889"
   },
   {
     "id": "mp-1222370",
@@ -19971,7 +20476,12 @@
       }
     },
     "best_ZT": 0.0684,
-    "best_PF": 0.0009
+    "best_PF": 0.0009,
+    "space_group": "166",
+    "space_group_type": "R-3m",
+    "point_group": "-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "1.8668"
   },
   {
     "id": "mp-1222404",
@@ -20161,7 +20671,12 @@
       }
     },
     "best_ZT": 0.2526,
-    "best_PF": 0.0025
+    "best_PF": 0.0025,
+    "space_group": "166",
+    "space_group_type": "R-3m",
+    "point_group": "-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "1.4062"
   },
   {
     "id": "mp-1223443",
@@ -20351,7 +20866,12 @@
       }
     },
     "best_ZT": 0.2893,
-    "best_PF": 0.0018
+    "best_PF": 0.0018,
+    "space_group": "166",
+    "space_group_type": "R-3m",
+    "point_group": "-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "1.4657"
   },
   {
     "id": "mp-1225491",
@@ -20541,7 +21061,12 @@
       }
     },
     "best_ZT": 1.2771,
-    "best_PF": 0.0135
+    "best_PF": 0.0135,
+    "space_group": "216",
+    "space_group_type": "F-43m",
+    "point_group": "-43m",
+    "band_character": "Indirect",
+    "band_gap_csv": "0.2302"
   },
   {
     "id": "mp-12317",
@@ -20731,7 +21256,12 @@
       }
     },
     "best_ZT": 0.2793,
-    "best_PF": 0.0086
+    "best_PF": 0.0086,
+    "space_group": "166",
+    "space_group_type": "R-3m",
+    "point_group": "-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "3.3158"
   },
   {
     "id": "mp-1249",
@@ -20921,7 +21451,12 @@
       }
     },
     "best_ZT": 0.0006,
-    "best_PF": 0.0001
+    "best_PF": 0.0001,
+    "space_group": "136",
+    "space_group_type": "P4_2/mnm",
+    "point_group": "4/mmm",
+    "band_character": "Direct",
+    "band_gap_csv": "7.3793"
   },
   {
     "id": "mp-1253",
@@ -21111,7 +21646,12 @@
       }
     },
     "best_ZT": 1.74,
-    "best_PF": 0.0039
+    "best_PF": 0.0039,
+    "space_group": "225",
+    "space_group_type": "Fm-3m",
+    "point_group": "m-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "1.9419"
   },
   {
     "id": "mp-12558",
@@ -21301,7 +21841,12 @@
       }
     },
     "best_ZT": 0.1177,
-    "best_PF": 0.002
+    "best_PF": 0.002,
+    "space_group": "216",
+    "space_group_type": "F-43m",
+    "point_group": "-43m",
+    "band_character": "Indirect",
+    "band_gap_csv": "1.3687"
   },
   {
     "id": "mp-1265",
@@ -21491,7 +22036,12 @@
       }
     },
     "best_ZT": 0.0205,
-    "best_PF": 0.0045
+    "best_PF": 0.0045,
+    "space_group": "225",
+    "space_group_type": "Fm-3m",
+    "point_group": "m-3m",
+    "band_character": "Direct",
+    "band_gap_csv": "4.8001"
   },
   {
     "id": "mp-1266",
@@ -21681,7 +22231,12 @@
       }
     },
     "best_ZT": 1.0358,
-    "best_PF": 0.0111
+    "best_PF": 0.0111,
+    "space_group": "225",
+    "space_group_type": "Fm-3m",
+    "point_group": "m-3m",
+    "band_character": "Direct",
+    "band_gap_csv": "2.1423"
   },
   {
     "id": "mp-1315",
@@ -21871,7 +22426,12 @@
       }
     },
     "best_ZT": 0.0223,
-    "best_PF": 0.0009
+    "best_PF": 0.0009,
+    "space_group": "225",
+    "space_group_type": "Fm-3m",
+    "point_group": "m-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "2.7716"
   },
   {
     "id": "mp-13305",
@@ -22061,7 +22621,12 @@
       }
     },
     "best_ZT": 1.6033,
-    "best_PF": 0.0278
+    "best_PF": 0.0278,
+    "space_group": "216",
+    "space_group_type": "F-43m",
+    "point_group": "-43m",
+    "band_character": "Indirect",
+    "band_gap_csv": "0.1061"
   },
   {
     "id": "mp-13313",
@@ -22251,7 +22816,12 @@
       }
     },
     "best_ZT": 0.2118,
-    "best_PF": 0.002
+    "best_PF": 0.002,
+    "space_group": "166",
+    "space_group_type": "R-3m",
+    "point_group": "-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "0.5633"
   },
   {
     "id": "mp-1342",
@@ -22441,7 +23011,12 @@
       }
     },
     "best_ZT": 0.0498,
-    "best_PF": 0.0006
+    "best_PF": 0.0006,
+    "space_group": "225",
+    "space_group_type": "Fm-3m",
+    "point_group": "m-3m",
+    "band_character": "Direct",
+    "band_gap_csv": "2.0155"
   },
   {
     "id": "mp-1367",
@@ -22631,7 +23206,12 @@
       }
     },
     "best_ZT": 0.2082,
-    "best_PF": 0.0053
+    "best_PF": 0.0053,
+    "space_group": "225",
+    "space_group_type": "Fm-3m",
+    "point_group": "m-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "0.2132"
   },
   {
     "id": "mp-14093",
@@ -22821,7 +23401,12 @@
       }
     },
     "best_ZT": 0.0128,
-    "best_PF": 0.0004
+    "best_PF": 0.0004,
+    "space_group": "166",
+    "space_group_type": "R-3m",
+    "point_group": "-3m",
+    "band_character": "Direct",
+    "band_gap_csv": "5.0207"
   },
   {
     "id": "mp-14115",
@@ -23011,7 +23596,12 @@
       }
     },
     "best_ZT": 0.0262,
-    "best_PF": 0.0012
+    "best_PF": 0.0012,
+    "space_group": "166",
+    "space_group_type": "R-3m",
+    "point_group": "-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "1.6434"
   },
   {
     "id": "mp-14116",
@@ -23201,7 +23791,12 @@
       }
     },
     "best_ZT": 0.0543,
-    "best_PF": 0.0145
+    "best_PF": 0.0145,
+    "space_group": "166",
+    "space_group_type": "R-3m",
+    "point_group": "-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "0.8265"
   },
   {
     "id": "mp-1413",
@@ -23391,7 +23986,12 @@
       }
     },
     "best_ZT": 0.0151,
-    "best_PF": 0.0033
+    "best_PF": 0.0033,
+    "space_group": "58",
+    "space_group_type": "Pnnm",
+    "point_group": "mmm",
+    "band_character": "Indirect",
+    "band_gap_csv": "0.4861"
   },
   {
     "id": "mp-1415",
@@ -23581,7 +24181,12 @@
       }
     },
     "best_ZT": 0.0383,
-    "best_PF": 0.0016
+    "best_PF": 0.0016,
+    "space_group": "225",
+    "space_group_type": "Fm-3m",
+    "point_group": "m-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "2.0778"
   },
   {
     "id": "mp-14437",
@@ -23771,7 +24376,12 @@
       }
     },
     "best_ZT": 0.3392,
-    "best_PF": 0.0043
+    "best_PF": 0.0043,
+    "space_group": "166",
+    "space_group_type": "R-3m",
+    "point_group": "-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "3.676"
   },
   {
     "id": "mp-1479",
@@ -23961,7 +24571,12 @@
       }
     },
     "best_ZT": 0.0035,
-    "best_PF": 0.0057
+    "best_PF": 0.0057,
+    "space_group": "216",
+    "space_group_type": "F-43m",
+    "point_group": "-43m",
+    "band_character": "Indirect",
+    "band_gap_csv": "1.2388"
   },
   {
     "id": "mp-149",
@@ -24151,7 +24766,12 @@
       }
     },
     "best_ZT": 0.015,
-    "best_PF": 0.0066
+    "best_PF": 0.0066,
+    "space_group": "227",
+    "space_group_type": "Fd-3m",
+    "point_group": "m-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "0.607"
   },
   {
     "id": "mp-1519",
@@ -24341,7 +24961,12 @@
       }
     },
     "best_ZT": 0.046,
-    "best_PF": 0.0011
+    "best_PF": 0.0011,
+    "space_group": "225",
+    "space_group_type": "Fm-3m",
+    "point_group": "m-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "1.5499"
   },
   {
     "id": "mp-1541",
@@ -24531,7 +25156,12 @@
       }
     },
     "best_ZT": 0.0104,
-    "best_PF": 0.0025
+    "best_PF": 0.0025,
+    "space_group": "216",
+    "space_group_type": "F-43m",
+    "point_group": "-43m",
+    "band_character": "Indirect",
+    "band_gap_csv": "2.6652"
   },
   {
     "id": "mp-1550",
@@ -24721,7 +25351,12 @@
       }
     },
     "best_ZT": 0.0206,
-    "best_PF": 0.0027
+    "best_PF": 0.0027,
+    "space_group": "216",
+    "space_group_type": "F-43m",
+    "point_group": "-43m",
+    "band_character": "Indirect",
+    "band_gap_csv": "1.6229"
   },
   {
     "id": "mp-1569",
@@ -24911,7 +25546,12 @@
       }
     },
     "best_ZT": 0.004,
-    "best_PF": 0.0013
+    "best_PF": 0.0013,
+    "space_group": "225",
+    "space_group_type": "Fm-3m",
+    "point_group": "m-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "1.1592"
   },
   {
     "id": "mp-15724",
@@ -25101,7 +25741,12 @@
       }
     },
     "best_ZT": 0.1382,
-    "best_PF": 0.0006
+    "best_PF": 0.0006,
+    "space_group": "225",
+    "space_group_type": "Fm-3m",
+    "point_group": "m-3m",
+    "band_character": "Direct",
+    "band_gap_csv": "0.8557"
   },
   {
     "id": "mp-15782",
@@ -25291,7 +25936,12 @@
       }
     },
     "best_ZT": 0.1774,
-    "best_PF": 0.0028
+    "best_PF": 0.0028,
+    "space_group": "166",
+    "space_group_type": "R-3m",
+    "point_group": "-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "2.2449"
   },
   {
     "id": "mp-15783",
@@ -25481,7 +26131,12 @@
       }
     },
     "best_ZT": 0.1457,
-    "best_PF": 0.0023
+    "best_PF": 0.0023,
+    "space_group": "166",
+    "space_group_type": "R-3m",
+    "point_group": "-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "2.2579"
   },
   {
     "id": "mp-15784",
@@ -25671,7 +26326,12 @@
       }
     },
     "best_ZT": 0.1278,
-    "best_PF": 0.002
+    "best_PF": 0.002,
+    "space_group": "166",
+    "space_group_type": "R-3m",
+    "point_group": "-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "2.2888"
   },
   {
     "id": "mp-15785",
@@ -25861,7 +26521,12 @@
       }
     },
     "best_ZT": 0.0898,
-    "best_PF": 0.0014
+    "best_PF": 0.0014,
+    "space_group": "166",
+    "space_group_type": "R-3m",
+    "point_group": "-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "2.3194"
   },
   {
     "id": "mp-15786",
@@ -26051,7 +26716,12 @@
       }
     },
     "best_ZT": 0.0988,
-    "best_PF": 0.0017
+    "best_PF": 0.0017,
+    "space_group": "166",
+    "space_group_type": "R-3m",
+    "point_group": "-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "2.3326"
   },
   {
     "id": "mp-15788",
@@ -26241,7 +26911,12 @@
       }
     },
     "best_ZT": 0.0609,
-    "best_PF": 0.0009
+    "best_PF": 0.0009,
+    "space_group": "166",
+    "space_group_type": "R-3m",
+    "point_group": "-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "1.9434"
   },
   {
     "id": "mp-15789",
@@ -26431,7 +27106,12 @@
       }
     },
     "best_ZT": 0.0622,
-    "best_PF": 0.0008
+    "best_PF": 0.0008,
+    "space_group": "166",
+    "space_group_type": "R-3m",
+    "point_group": "-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "1.9198"
   },
   {
     "id": "mp-15790",
@@ -26621,7 +27301,12 @@
       }
     },
     "best_ZT": 0.0555,
-    "best_PF": 0.0008
+    "best_PF": 0.0008,
+    "space_group": "166",
+    "space_group_type": "R-3m",
+    "point_group": "-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "1.9567"
   },
   {
     "id": "mp-15791",
@@ -26811,7 +27496,12 @@
       }
     },
     "best_ZT": 0.0885,
-    "best_PF": 0.0009
+    "best_PF": 0.0009,
+    "space_group": "166",
+    "space_group_type": "R-3m",
+    "point_group": "-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "1.9879"
   },
   {
     "id": "mp-15792",
@@ -27001,7 +27691,12 @@
       }
     },
     "best_ZT": 0.1148,
-    "best_PF": 0.001
+    "best_PF": 0.001,
+    "space_group": "166",
+    "space_group_type": "R-3m",
+    "point_group": "-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "1.4621"
   },
   {
     "id": "mp-15793",
@@ -27191,7 +27886,12 @@
       }
     },
     "best_ZT": 0.1141,
-    "best_PF": 0.001
+    "best_PF": 0.001,
+    "space_group": "166",
+    "space_group_type": "R-3m",
+    "point_group": "-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "1.5056"
   },
   {
     "id": "mp-15794",
@@ -27381,7 +28081,12 @@
       }
     },
     "best_ZT": 0.0913,
-    "best_PF": 0.001
+    "best_PF": 0.001,
+    "space_group": "166",
+    "space_group_type": "R-3m",
+    "point_group": "-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "1.5625"
   },
   {
     "id": "mp-15795",
@@ -27571,7 +28276,12 @@
       }
     },
     "best_ZT": 0.1145,
-    "best_PF": 0.001
+    "best_PF": 0.001,
+    "space_group": "166",
+    "space_group_type": "R-3m",
+    "point_group": "-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "1.5303"
   },
   {
     "id": "mp-15796",
@@ -27761,7 +28471,12 @@
       }
     },
     "best_ZT": 0.0984,
-    "best_PF": 0.0011
+    "best_PF": 0.0011,
+    "space_group": "166",
+    "space_group_type": "R-3m",
+    "point_group": "-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "1.5086"
   },
   {
     "id": "mp-16236",
@@ -27951,7 +28666,12 @@
       }
     },
     "best_ZT": 0.3733,
-    "best_PF": 0.0008
+    "best_PF": 0.0008,
+    "space_group": "129",
+    "space_group_type": "P4/nmm",
+    "point_group": "4/mmm",
+    "band_character": "Direct",
+    "band_gap_csv": "0.4803"
   },
   {
     "id": "mp-16313",
@@ -28141,7 +28861,12 @@
       }
     },
     "best_ZT": 1.2451,
-    "best_PF": 0.0265
+    "best_PF": 0.0265,
+    "space_group": "216",
+    "space_group_type": "F-43m",
+    "point_group": "-43m",
+    "band_character": "Direct",
+    "band_gap_csv": "0.1419"
   },
   {
     "id": "mp-16327",
@@ -28331,7 +29056,12 @@
       }
     },
     "best_ZT": 1.2016,
-    "best_PF": 0.0478
+    "best_PF": 0.0478,
+    "space_group": "216",
+    "space_group_type": "F-43m",
+    "point_group": "-43m",
+    "band_character": "Direct",
+    "band_gap_csv": "0.0892"
   },
   {
     "id": "mp-1672",
@@ -28521,7 +29251,12 @@
       }
     },
     "best_ZT": 0.0225,
-    "best_PF": 0.0018
+    "best_PF": 0.0018,
+    "space_group": "225",
+    "space_group_type": "Fm-3m",
+    "point_group": "m-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "2.3585"
   },
   {
     "id": "mp-1747",
@@ -28711,7 +29446,12 @@
       }
     },
     "best_ZT": 0.232,
-    "best_PF": 0.0003
+    "best_PF": 0.0003,
+    "space_group": "225",
+    "space_group_type": "Fm-3m",
+    "point_group": "m-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "2.1581"
   },
   {
     "id": "mp-1779",
@@ -28901,7 +29641,12 @@
       }
     },
     "best_ZT": 0.0426,
-    "best_PF": 0.0009
+    "best_PF": 0.0009,
+    "space_group": "225",
+    "space_group_type": "Fm-3m",
+    "point_group": "m-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "1.448"
   },
   {
     "id": "mp-1784",
@@ -29091,7 +29836,12 @@
       }
     },
     "best_ZT": 0.0686,
-    "best_PF": 0.0004
+    "best_PF": 0.0004,
+    "space_group": "225",
+    "space_group_type": "Fm-3m",
+    "point_group": "m-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "5.6089"
   },
   {
     "id": "mp-1820",
@@ -29281,7 +30031,12 @@
       }
     },
     "best_ZT": 0.0258,
-    "best_PF": 0.001
+    "best_PF": 0.001,
+    "space_group": "225",
+    "space_group_type": "Fm-3m",
+    "point_group": "m-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "2.1748"
   },
   {
     "id": "mp-1958",
@@ -29471,7 +30226,12 @@
       }
     },
     "best_ZT": 0.0344,
-    "best_PF": 0.0011
+    "best_PF": 0.0011,
+    "space_group": "225",
+    "space_group_type": "Fm-3m",
+    "point_group": "m-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "1.7529"
   },
   {
     "id": "mp-1960",
@@ -29661,7 +30421,12 @@
       }
     },
     "best_ZT": 0.5713,
-    "best_PF": 0.0256
+    "best_PF": 0.0256,
+    "space_group": "225",
+    "space_group_type": "Fm-3m",
+    "point_group": "m-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "4.9799"
   },
   {
     "id": "mp-19886",
@@ -29851,7 +30616,12 @@
       }
     },
     "best_ZT": 1.4167,
-    "best_PF": 0.0339
+    "best_PF": 0.0339,
+    "space_group": "216",
+    "space_group_type": "F-43m",
+    "point_group": "-43m",
+    "band_character": "Direct",
+    "band_gap_csv": "0.6792"
   },
   {
     "id": "mp-20072",
@@ -30041,7 +30811,12 @@
       }
     },
     "best_ZT": 0.149,
-    "best_PF": 0.0052
+    "best_PF": 0.0052,
+    "space_group": "166",
+    "space_group_type": "R-3m",
+    "point_group": "-3m",
+    "band_character": "Direct",
+    "band_gap_csv": "2.571"
   },
   {
     "id": "mp-20185",
@@ -30231,7 +31006,12 @@
       }
     },
     "best_ZT": 0.2759,
-    "best_PF": 0.0095
+    "best_PF": 0.0095,
+    "space_group": "216",
+    "space_group_type": "F-43m",
+    "point_group": "-43m",
+    "band_character": "Indirect",
+    "band_gap_csv": "0.2052"
   },
   {
     "id": "mp-20289",
@@ -30421,7 +31201,12 @@
       }
     },
     "best_ZT": 0.2419,
-    "best_PF": 0.002
+    "best_PF": 0.002,
+    "space_group": "166",
+    "space_group_type": "R-3m",
+    "point_group": "-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "1.8765"
   },
   {
     "id": "mp-20351",
@@ -30611,7 +31396,12 @@
       }
     },
     "best_ZT": 0.1852,
-    "best_PF": 0.0036
+    "best_PF": 0.0036,
+    "space_group": "216",
+    "space_group_type": "F-43m",
+    "point_group": "-43m",
+    "band_character": "Direct",
+    "band_gap_csv": "0.4682"
   },
   {
     "id": "mp-20420",
@@ -30801,7 +31591,12 @@
       }
     },
     "best_ZT": 0.1263,
-    "best_PF": 0.001
+    "best_PF": 0.001,
+    "space_group": "166",
+    "space_group_type": "R-3m",
+    "point_group": "-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "1.2772"
   },
   {
     "id": "mp-2074",
@@ -30991,7 +31786,12 @@
       }
     },
     "best_ZT": 0.0033,
-    "best_PF": 0.0026
+    "best_PF": 0.0026,
+    "space_group": "225",
+    "space_group_type": "Fm-3m",
+    "point_group": "m-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "0.7088"
   },
   {
     "id": "mp-21272",
@@ -31181,7 +31981,12 @@
       }
     },
     "best_ZT": 0.2931,
-    "best_PF": 0.0099
+    "best_PF": 0.0099,
+    "space_group": "216",
+    "space_group_type": "F-43m",
+    "point_group": "-43m",
+    "band_character": "Indirect",
+    "band_gap_csv": "0.2663"
   },
   {
     "id": "mp-2133",
@@ -31371,7 +32176,12 @@
       }
     },
     "best_ZT": 0.0497,
-    "best_PF": 0.0009
+    "best_PF": 0.0009,
+    "space_group": "186",
+    "space_group_type": "P6_3mc",
+    "point_group": "6mm",
+    "band_character": "Direct",
+    "band_gap_csv": "0.7751"
   },
   {
     "id": "mp-2150",
@@ -31561,7 +32371,12 @@
       }
     },
     "best_ZT": 0.0002,
-    "best_PF": 0.0
+    "best_PF": 0.0,
+    "space_group": "140",
+    "space_group_type": "I4/mcm",
+    "point_group": "4/mmm",
+    "band_character": "Indirect",
+    "band_gap_csv": "0.3563"
   },
   {
     "id": "mp-2172",
@@ -31751,7 +32566,12 @@
       }
     },
     "best_ZT": 0.0481,
-    "best_PF": 0.0036
+    "best_PF": 0.0036,
+    "space_group": "216",
+    "space_group_type": "F-43m",
+    "point_group": "-43m",
+    "band_character": "Indirect",
+    "band_gap_csv": "1.4966"
   },
   {
     "id": "mp-22313",
@@ -31941,7 +32761,12 @@
       }
     },
     "best_ZT": 0.0101,
-    "best_PF": 0.0007
+    "best_PF": 0.0007,
+    "space_group": "71",
+    "space_group_type": "Immm",
+    "point_group": "mmm",
+    "band_character": "Indirect",
+    "band_gap_csv": "1.5685"
   },
   {
     "id": "mp-22526",
@@ -32131,7 +32956,12 @@
       }
     },
     "best_ZT": 0.0243,
-    "best_PF": 0.0028
+    "best_PF": 0.0028,
+    "space_group": "166",
+    "space_group_type": "R-3m",
+    "point_group": "-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "1.3335"
   },
   {
     "id": "mp-22660",
@@ -32321,7 +33151,12 @@
       }
     },
     "best_ZT": 0.0778,
-    "best_PF": 0.0026
+    "best_PF": 0.0026,
+    "space_group": "166",
+    "space_group_type": "R-3m",
+    "point_group": "-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "0.2646"
   },
   {
     "id": "mp-22786",
@@ -32511,7 +33346,12 @@
       }
     },
     "best_ZT": 3.0545,
-    "best_PF": 0.0345
+    "best_PF": 0.0345,
+    "space_group": "216",
+    "space_group_type": "F-43m",
+    "point_group": "-43m",
+    "band_character": "Indirect",
+    "band_gap_csv": "0.267"
   },
   {
     "id": "mp-2286",
@@ -32701,7 +33541,12 @@
       }
     },
     "best_ZT": 0.0309,
-    "best_PF": 0.0009
+    "best_PF": 0.0009,
+    "space_group": "225",
+    "space_group_type": "Fm-3m",
+    "point_group": "m-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "2.9742"
   },
   {
     "id": "mp-22862",
@@ -32891,7 +33736,12 @@
       }
     },
     "best_ZT": 0.2817,
-    "best_PF": 0.0081
+    "best_PF": 0.0081,
+    "space_group": "225",
+    "space_group_type": "Fm-3m",
+    "point_group": "m-3m",
+    "band_character": "Direct",
+    "band_gap_csv": "5.272"
   },
   {
     "id": "mp-22867",
@@ -33081,7 +33931,12 @@
       }
     },
     "best_ZT": 0.7222,
-    "best_PF": 0.0103
+    "best_PF": 0.0103,
+    "space_group": "225",
+    "space_group_type": "Fm-3m",
+    "point_group": "m-3m",
+    "band_character": "Direct",
+    "band_gap_csv": "4.2545"
   },
   {
     "id": "mp-22898",
@@ -33271,7 +34126,12 @@
       }
     },
     "best_ZT": 0.265,
-    "best_PF": 0.0014
+    "best_PF": 0.0014,
+    "space_group": "225",
+    "space_group_type": "Fm-3m",
+    "point_group": "m-3m",
+    "band_character": "Direct",
+    "band_gap_csv": "3.8535"
   },
   {
     "id": "mp-22903",
@@ -33461,7 +34321,12 @@
       }
     },
     "best_ZT": 0.5228,
-    "best_PF": 0.0045
+    "best_PF": 0.0045,
+    "space_group": "225",
+    "space_group_type": "Fm-3m",
+    "point_group": "m-3m",
+    "band_character": "Direct",
+    "band_gap_csv": "3.7734"
   },
   {
     "id": "mp-22916",
@@ -33651,7 +34516,12 @@
       }
     },
     "best_ZT": 0.5203,
-    "best_PF": 0.0063
+    "best_PF": 0.0063,
+    "space_group": "225",
+    "space_group_type": "Fm-3m",
+    "point_group": "m-3m",
+    "band_character": "Direct",
+    "band_gap_csv": "4.2296"
   },
   {
     "id": "mp-22925",
@@ -33841,7 +34711,12 @@
       }
     },
     "best_ZT": 0.9335,
-    "best_PF": 0.0009
+    "best_PF": 0.0009,
+    "space_group": "216",
+    "space_group_type": "F-43m",
+    "point_group": "-43m",
+    "band_character": "Direct",
+    "band_gap_csv": "1.344"
   },
   {
     "id": "mp-22936",
@@ -34031,7 +34906,12 @@
       }
     },
     "best_ZT": 0.0284,
-    "best_PF": 0.0007
+    "best_PF": 0.0007,
+    "space_group": "166",
+    "space_group_type": "R-3m",
+    "point_group": "-3m",
+    "band_character": "Direct",
+    "band_gap_csv": "2.362"
   },
   {
     "id": "mp-22951",
@@ -34221,7 +35101,12 @@
       }
     },
     "best_ZT": 0.1685,
-    "best_PF": 0.0016
+    "best_PF": 0.0016,
+    "space_group": "129",
+    "space_group_type": "P4/nmm",
+    "point_group": "4/mmm",
+    "band_character": "Direct",
+    "band_gap_csv": "3.894"
   },
   {
     "id": "mp-22957",
@@ -34411,7 +35296,12 @@
       }
     },
     "best_ZT": 0.3474,
-    "best_PF": 0.0059
+    "best_PF": 0.0059,
+    "space_group": "129",
+    "space_group_type": "P4/nmm",
+    "point_group": "4/mmm",
+    "band_character": "Direct",
+    "band_gap_csv": "5.8835"
   },
   {
     "id": "mp-22964",
@@ -34601,7 +35491,12 @@
       }
     },
     "best_ZT": 0.1009,
-    "best_PF": 0.0005
+    "best_PF": 0.0005,
+    "space_group": "129",
+    "space_group_type": "P4/nmm",
+    "point_group": "4/mmm",
+    "band_character": "Direct",
+    "band_gap_csv": "3.5405"
   },
   {
     "id": "mp-22965",
@@ -34791,7 +35686,12 @@
       }
     },
     "best_ZT": 0.201,
-    "best_PF": 0.0009
+    "best_PF": 0.0009,
+    "space_group": "156",
+    "space_group_type": "P3m1",
+    "point_group": "3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "1.2576"
   },
   {
     "id": "mp-23009",
@@ -34981,7 +35881,12 @@
       }
     },
     "best_ZT": 0.0419,
-    "best_PF": 0.0007
+    "best_PF": 0.0007,
+    "space_group": "166",
+    "space_group_type": "R-3m",
+    "point_group": "-3m",
+    "band_character": "Direct",
+    "band_gap_csv": "2.4177"
   },
   {
     "id": "mp-23024",
@@ -35171,7 +36076,12 @@
       }
     },
     "best_ZT": 0.0655,
-    "best_PF": 0.001
+    "best_PF": 0.001,
+    "space_group": "129",
+    "space_group_type": "P4/nmm",
+    "point_group": "4/mmm",
+    "band_character": "Direct",
+    "band_gap_csv": "5.1393"
   },
   {
     "id": "mp-23025",
@@ -35361,7 +36271,12 @@
       }
     },
     "best_ZT": 0.0525,
-    "best_PF": 0.0012
+    "best_PF": 0.0012,
+    "space_group": "129",
+    "space_group_type": "P4/nmm",
+    "point_group": "4/mmm",
+    "band_character": "Direct",
+    "band_gap_csv": "4.0656"
   },
   {
     "id": "mp-23033",
@@ -35551,7 +36466,12 @@
       }
     },
     "best_ZT": 0.0843,
-    "best_PF": 0.0008
+    "best_PF": 0.0008,
+    "space_group": "166",
+    "space_group_type": "R-3m",
+    "point_group": "-3m",
+    "band_character": "Direct",
+    "band_gap_csv": "1.9009"
   },
   {
     "id": "mp-23040",
@@ -35741,7 +36661,12 @@
       }
     },
     "best_ZT": 0.2492,
-    "best_PF": 0.0026
+    "best_PF": 0.0026,
+    "space_group": "166",
+    "space_group_type": "R-3m",
+    "point_group": "-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "1.6781"
   },
   {
     "id": "mp-23056",
@@ -35931,7 +36856,12 @@
       }
     },
     "best_ZT": 0.0881,
-    "best_PF": 0.0011
+    "best_PF": 0.0011,
+    "space_group": "166",
+    "space_group_type": "R-3m",
+    "point_group": "-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "1.8962"
   },
   {
     "id": "mp-23058",
@@ -36121,7 +37051,12 @@
       }
     },
     "best_ZT": 0.0235,
-    "best_PF": 0.0005
+    "best_PF": 0.0005,
+    "space_group": "129",
+    "space_group_type": "P4/nmm",
+    "point_group": "4/mmm",
+    "band_character": "Indirect",
+    "band_gap_csv": "4.681"
   },
   {
     "id": "mp-23070",
@@ -36311,7 +37246,12 @@
       }
     },
     "best_ZT": 0.7344,
-    "best_PF": 0.0136
+    "best_PF": 0.0136,
+    "space_group": "129",
+    "space_group_type": "P4/nmm",
+    "point_group": "4/mmm",
+    "band_character": "Direct",
+    "band_gap_csv": "4.8256"
   },
   {
     "id": "mp-23155",
@@ -36501,7 +37441,12 @@
       }
     },
     "best_ZT": 0.9228,
-    "best_PF": 0.0059
+    "best_PF": 0.0059,
+    "space_group": "225",
+    "space_group_type": "Fm-3m",
+    "point_group": "m-3m",
+    "band_character": "Direct",
+    "band_gap_csv": "8.7422"
   },
   {
     "id": "mp-23162",
@@ -36691,7 +37636,12 @@
       }
     },
     "best_ZT": 0.0625,
-    "best_PF": 0.0054
+    "best_PF": 0.0054,
+    "space_group": "160",
+    "space_group_type": "R3m",
+    "point_group": "3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "0.8213"
   },
   {
     "id": "mp-2319",
@@ -36881,7 +37831,12 @@
       }
     },
     "best_ZT": 0.0123,
-    "best_PF": 0.0029
+    "best_PF": 0.0029,
+    "space_group": "58",
+    "space_group_type": "Pnnm",
+    "point_group": "mmm",
+    "band_character": "Indirect",
+    "band_gap_csv": "0.8262"
   },
   {
     "id": "mp-23193",
@@ -37071,7 +38026,12 @@
       }
     },
     "best_ZT": 0.2532,
-    "best_PF": 0.0066
+    "best_PF": 0.0066,
+    "space_group": "225",
+    "space_group_type": "Fm-3m",
+    "point_group": "m-3m",
+    "band_character": "Direct",
+    "band_gap_csv": "5.2028"
   },
   {
     "id": "mp-23209",
@@ -37261,7 +38221,12 @@
       }
     },
     "best_ZT": 0.6747,
-    "best_PF": 0.0007
+    "best_PF": 0.0007,
+    "space_group": "225",
+    "space_group_type": "Fm-3m",
+    "point_group": "m-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "5.3541"
   },
   {
     "id": "mp-23222",
@@ -37451,7 +38416,12 @@
       }
     },
     "best_ZT": 2.5323,
-    "best_PF": 0.0041
+    "best_PF": 0.0041,
+    "space_group": "225",
+    "space_group_type": "Fm-3m",
+    "point_group": "m-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "0.38"
   },
   {
     "id": "mp-23251",
@@ -37641,7 +38611,12 @@
       }
     },
     "best_ZT": 0.9843,
-    "best_PF": 0.0031
+    "best_PF": 0.0031,
+    "space_group": "225",
+    "space_group_type": "Fm-3m",
+    "point_group": "m-3m",
+    "band_character": "Direct",
+    "band_gap_csv": "4.3316"
   },
   {
     "id": "mp-23268",
@@ -37831,7 +38806,12 @@
       }
     },
     "best_ZT": 0.1906,
-    "best_PF": 0.001
+    "best_PF": 0.001,
+    "space_group": "225",
+    "space_group_type": "Fm-3m",
+    "point_group": "m-3m",
+    "band_character": "Direct",
+    "band_gap_csv": "3.6929"
   },
   {
     "id": "mp-23295",
@@ -38021,7 +39001,12 @@
       }
     },
     "best_ZT": 1.2278,
-    "best_PF": 0.0126
+    "best_PF": 0.0126,
+    "space_group": "225",
+    "space_group_type": "Fm-3m",
+    "point_group": "m-3m",
+    "band_character": "Direct",
+    "band_gap_csv": "4.9751"
   },
   {
     "id": "mp-23432",
@@ -38211,7 +39196,12 @@
       }
     },
     "best_ZT": 0.5921,
-    "best_PF": 0.0096
+    "best_PF": 0.0096,
+    "space_group": "129",
+    "space_group_type": "P4/nmm",
+    "point_group": "4/mmm",
+    "band_character": "Direct",
+    "band_gap_csv": "5.3979"
   },
   {
     "id": "mp-2352",
@@ -38401,7 +39391,12 @@
       }
     },
     "best_ZT": 0.4285,
-    "best_PF": 0.0118
+    "best_PF": 0.0118,
+    "space_group": "225",
+    "space_group_type": "Fm-3m",
+    "point_group": "m-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "2.1032"
   },
   {
     "id": "mp-23710",
@@ -38591,7 +39586,12 @@
       }
     },
     "best_ZT": 0.0112,
-    "best_PF": 0.0014
+    "best_PF": 0.0014,
+    "space_group": "136",
+    "space_group_type": "P4_2/mnm",
+    "point_group": "4/mmm",
+    "band_character": "Indirect",
+    "band_gap_csv": "3.7405"
   },
   {
     "id": "mp-23860",
@@ -38781,7 +39781,12 @@
       }
     },
     "best_ZT": 0.0135,
-    "best_PF": 0.0003
+    "best_PF": 0.0003,
+    "space_group": "129",
+    "space_group_type": "P4/nmm",
+    "point_group": "4/mmm",
+    "band_character": "Indirect",
+    "band_gap_csv": "3.9766"
   },
   {
     "id": "mp-23861",
@@ -38971,7 +39976,12 @@
       }
     },
     "best_ZT": 0.0407,
-    "best_PF": 0.0006
+    "best_PF": 0.0006,
+    "space_group": "129",
+    "space_group_type": "P4/nmm",
+    "point_group": "4/mmm",
+    "band_character": "Direct",
+    "band_gap_csv": "3.3932"
   },
   {
     "id": "mp-23862",
@@ -39161,7 +40171,12 @@
       }
     },
     "best_ZT": 0.0344,
-    "best_PF": 0.0003
+    "best_PF": 0.0003,
+    "space_group": "129",
+    "space_group_type": "P4/nmm",
+    "point_group": "4/mmm",
+    "band_character": "Direct",
+    "band_gap_csv": "2.7744"
   },
   {
     "id": "mp-23870",
@@ -39351,7 +40366,12 @@
       }
     },
     "best_ZT": 0.3168,
-    "best_PF": 0.001
+    "best_PF": 0.001,
+    "space_group": "225",
+    "space_group_type": "Fm-3m",
+    "point_group": "m-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "3.9016"
   },
   {
     "id": "mp-24012",
@@ -39541,7 +40561,12 @@
       }
     },
     "best_ZT": 0.0107,
-    "best_PF": 0.0009
+    "best_PF": 0.0009,
+    "space_group": "187",
+    "space_group_type": "P-6m2",
+    "point_group": "-6m2",
+    "band_character": "Indirect",
+    "band_gap_csv": "1.4953"
   },
   {
     "id": "mp-24084",
@@ -39731,7 +40756,12 @@
       }
     },
     "best_ZT": 0.0152,
-    "best_PF": 0.0005
+    "best_PF": 0.0005,
+    "space_group": "225",
+    "space_group_type": "Fm-3m",
+    "point_group": "m-3m",
+    "band_character": "Direct",
+    "band_gap_csv": "3.4395"
   },
   {
     "id": "mp-241",
@@ -39921,7 +40951,12 @@
       }
     },
     "best_ZT": 0.3011,
-    "best_PF": 0.0007
+    "best_PF": 0.0007,
+    "space_group": "225",
+    "space_group_type": "Fm-3m",
+    "point_group": "m-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "3.1316"
   },
   {
     "id": "mp-24204",
@@ -40111,7 +41146,12 @@
       }
     },
     "best_ZT": 0.0591,
-    "best_PF": 0.001
+    "best_PF": 0.001,
+    "space_group": "129",
+    "space_group_type": "P4/nmm",
+    "point_group": "4/mmm",
+    "band_character": "Indirect",
+    "band_gap_csv": "3.395"
   },
   {
     "id": "mp-24205",
@@ -40301,7 +41341,12 @@
       }
     },
     "best_ZT": 0.0382,
-    "best_PF": 0.0005
+    "best_PF": 0.0005,
+    "space_group": "129",
+    "space_group_type": "P4/nmm",
+    "point_group": "4/mmm",
+    "band_character": "Indirect",
+    "band_gap_csv": "3.4405"
   },
   {
     "id": "mp-24422",
@@ -40491,7 +41536,12 @@
       }
     },
     "best_ZT": 0.073,
-    "best_PF": 0.0015
+    "best_PF": 0.0015,
+    "space_group": "129",
+    "space_group_type": "P4/nmm",
+    "point_group": "4/mmm",
+    "band_character": "Direct",
+    "band_gap_csv": "4.091"
   },
   {
     "id": "mp-24423",
@@ -40681,7 +41731,12 @@
       }
     },
     "best_ZT": 0.033,
-    "best_PF": 0.0005
+    "best_PF": 0.0005,
+    "space_group": "129",
+    "space_group_type": "P4/nmm",
+    "point_group": "4/mmm",
+    "band_character": "Direct",
+    "band_gap_csv": "3.7501"
   },
   {
     "id": "mp-24424",
@@ -40871,7 +41926,12 @@
       }
     },
     "best_ZT": 0.0221,
-    "best_PF": 0.0003
+    "best_PF": 0.0003,
+    "space_group": "129",
+    "space_group_type": "P4/nmm",
+    "point_group": "4/mmm",
+    "band_character": "Direct",
+    "band_gap_csv": "3.174"
   },
   {
     "id": "mp-2455",
@@ -41061,7 +42121,12 @@
       }
     },
     "best_ZT": 0.0296,
-    "best_PF": 0.0048
+    "best_PF": 0.0048,
+    "space_group": "58",
+    "space_group_type": "Pnnm",
+    "point_group": "mmm",
+    "band_character": "Indirect",
+    "band_gap_csv": "0.6823"
   },
   {
     "id": "mp-2472",
@@ -41251,7 +42316,12 @@
       }
     },
     "best_ZT": 0.9105,
-    "best_PF": 0.0634
+    "best_PF": 0.0634,
+    "space_group": "225",
+    "space_group_type": "Fm-3m",
+    "point_group": "m-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "3.27"
   },
   {
     "id": "mp-24721",
@@ -41441,7 +42511,12 @@
       }
     },
     "best_ZT": 0.0229,
-    "best_PF": 0.0005
+    "best_PF": 0.0005,
+    "space_group": "225",
+    "space_group_type": "Fm-3m",
+    "point_group": "m-3m",
+    "band_character": "Direct",
+    "band_gap_csv": "2.8904"
   },
   {
     "id": "mp-2490",
@@ -41631,7 +42706,12 @@
       }
     },
     "best_ZT": 0.2742,
-    "best_PF": 0.006
+    "best_PF": 0.006,
+    "space_group": "216",
+    "space_group_type": "F-43m",
+    "point_group": "-43m",
+    "band_character": "Indirect",
+    "band_gap_csv": "1.6068"
   },
   {
     "id": "mp-252",
@@ -41821,7 +42901,12 @@
       }
     },
     "best_ZT": 0.0222,
-    "best_PF": 0.0041
+    "best_PF": 0.0041,
+    "space_group": "216",
+    "space_group_type": "F-43m",
+    "point_group": "-43m",
+    "band_character": "Indirect",
+    "band_gap_csv": "2.0197"
   },
   {
     "id": "mp-2530",
@@ -42011,7 +43096,12 @@
       }
     },
     "best_ZT": 0.1231,
-    "best_PF": 0.0011
+    "best_PF": 0.0011,
+    "space_group": "225",
+    "space_group_type": "Fm-3m",
+    "point_group": "m-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "2.4946"
   },
   {
     "id": "mp-2534",
@@ -42201,7 +43291,12 @@
       }
     },
     "best_ZT": 2.2585,
-    "best_PF": 0.0255
+    "best_PF": 0.0255,
+    "space_group": "216",
+    "space_group_type": "F-43m",
+    "point_group": "-43m",
+    "band_character": "Direct",
+    "band_gap_csv": "0.143"
   },
   {
     "id": "mp-2542",
@@ -42391,7 +43486,12 @@
       }
     },
     "best_ZT": 0.0022,
-    "best_PF": 0.0014
+    "best_PF": 0.0014,
+    "space_group": "186",
+    "space_group_type": "P6_3mc",
+    "point_group": "6mm",
+    "band_character": "Direct",
+    "band_gap_csv": "7.7368"
   },
   {
     "id": "mp-2605",
@@ -42581,7 +43681,12 @@
       }
     },
     "best_ZT": 0.2386,
-    "best_PF": 0.0258
+    "best_PF": 0.0258,
+    "space_group": "225",
+    "space_group_type": "Fm-3m",
+    "point_group": "m-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "3.6346"
   },
   {
     "id": "mp-2624",
@@ -42771,7 +43876,12 @@
       }
     },
     "best_ZT": 0.1364,
-    "best_PF": 0.0061
+    "best_PF": 0.0061,
+    "space_group": "216",
+    "space_group_type": "F-43m",
+    "point_group": "-43m",
+    "band_character": "Indirect",
+    "band_gap_csv": "1.2199"
   },
   {
     "id": "mp-2667",
@@ -42961,7 +44071,12 @@
       }
     },
     "best_ZT": 0.2457,
-    "best_PF": 0.0008
+    "best_PF": 0.0008,
+    "space_group": "221",
+    "space_group_type": "Pm-3m",
+    "point_group": "m-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "0.9691"
   },
   {
     "id": "mp-267",
@@ -43151,7 +44266,12 @@
       }
     },
     "best_ZT": 0.0299,
-    "best_PF": 0.003
+    "best_PF": 0.003,
+    "space_group": "58",
+    "space_group_type": "Pnnm",
+    "point_group": "mmm",
+    "band_character": "Indirect",
+    "band_gap_csv": "0.3134"
   },
   {
     "id": "mp-2691",
@@ -43341,7 +44461,12 @@
       }
     },
     "best_ZT": 0.1521,
-    "best_PF": 0.0014
+    "best_PF": 0.0014,
+    "space_group": "216",
+    "space_group_type": "F-43m",
+    "point_group": "-43m",
+    "band_character": "Direct",
+    "band_gap_csv": "0.5314"
   },
   {
     "id": "mp-2695",
@@ -43531,7 +44656,12 @@
       }
     },
     "best_ZT": 0.0524,
-    "best_PF": 0.0053
+    "best_PF": 0.0053,
+    "space_group": "58",
+    "space_group_type": "Pnnm",
+    "point_group": "mmm",
+    "band_character": "Indirect",
+    "band_gap_csv": "0.3469"
   },
   {
     "id": "mp-2741",
@@ -43721,7 +44851,12 @@
       }
     },
     "best_ZT": 0.2512,
-    "best_PF": 0.0008
+    "best_PF": 0.0008,
+    "space_group": "225",
+    "space_group_type": "Fm-3m",
+    "point_group": "m-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "7.4812"
   },
   {
     "id": "mp-2758",
@@ -43911,7 +45046,12 @@
       }
     },
     "best_ZT": 0.0248,
-    "best_PF": 0.0014
+    "best_PF": 0.0014,
+    "space_group": "225",
+    "space_group_type": "Fm-3m",
+    "point_group": "m-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "2.2185"
   },
   {
     "id": "mp-27869",
@@ -44101,7 +45241,12 @@
       }
     },
     "best_ZT": 0.0854,
-    "best_PF": 0.0007
+    "best_PF": 0.0007,
+    "space_group": "166",
+    "space_group_type": "R-3m",
+    "point_group": "-3m",
+    "band_character": "Direct",
+    "band_gap_csv": "1.2193"
   },
   {
     "id": "mp-28171",
@@ -44291,7 +45436,12 @@
       }
     },
     "best_ZT": 0.1991,
-    "best_PF": 0.0004
+    "best_PF": 0.0004,
+    "space_group": "221",
+    "space_group_type": "Pm-3m",
+    "point_group": "m-3m",
+    "band_character": "Direct",
+    "band_gap_csv": "1.0995"
   },
   {
     "id": "mp-28554",
@@ -44481,7 +45631,12 @@
       }
     },
     "best_ZT": 0.226,
-    "best_PF": 0.0019
+    "best_PF": 0.0019,
+    "space_group": "166",
+    "space_group_type": "R-3m",
+    "point_group": "-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "1.5429"
   },
   {
     "id": "mp-286",
@@ -44671,7 +45826,12 @@
       }
     },
     "best_ZT": 0.0414,
-    "best_PF": 0.0011
+    "best_PF": 0.0011,
+    "space_group": "225",
+    "space_group_type": "Fm-3m",
+    "point_group": "m-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "1.922"
   },
   {
     "id": "mp-28797",
@@ -44861,7 +46021,12 @@
       }
     },
     "best_ZT": 0.0106,
-    "best_PF": 0.0011
+    "best_PF": 0.0011,
+    "space_group": "187",
+    "space_group_type": "P-6m2",
+    "point_group": "-6m2",
+    "band_character": "Indirect",
+    "band_gap_csv": "1.5363"
   },
   {
     "id": "mp-288",
@@ -45051,7 +46216,12 @@
       }
     },
     "best_ZT": 0.0182,
-    "best_PF": 0.0048
+    "best_PF": 0.0048,
+    "space_group": "131",
+    "space_group_type": "P4_2/mmc",
+    "point_group": "4/mmm",
+    "band_character": "Direct",
+    "band_gap_csv": "0.4258"
   },
   {
     "id": "mp-2894",
@@ -45241,7 +46411,12 @@
       }
     },
     "best_ZT": 0.48,
-    "best_PF": 0.0148
+    "best_PF": 0.0148,
+    "space_group": "216",
+    "space_group_type": "F-43m",
+    "point_group": "-43m",
+    "band_character": "Indirect",
+    "band_gap_csv": "0.1327"
   },
   {
     "id": "mp-29266",
@@ -45431,7 +46606,12 @@
       }
     },
     "best_ZT": 0.0678,
-    "best_PF": 0.0001
+    "best_PF": 0.0001,
+    "space_group": "71",
+    "space_group_type": "Immm",
+    "point_group": "mmm",
+    "band_character": "Indirect",
+    "band_gap_csv": "1.7099"
   },
   {
     "id": "mp-30041",
@@ -45918,7 +47098,12 @@
       }
     },
     "best_ZT": 0.3296,
-    "best_PF": 0.0015
+    "best_PF": 0.0015,
+    "space_group": "166",
+    "space_group_type": "R-3m",
+    "point_group": "-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "1.38"
   },
   {
     "id": "mp-30373",
@@ -46108,7 +47293,12 @@
       }
     },
     "best_ZT": 0.2092,
-    "best_PF": 0.0007
+    "best_PF": 0.0007,
+    "space_group": "221",
+    "space_group_type": "Pm-3m",
+    "point_group": "m-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "0.2433"
   },
   {
     "id": "mp-30452",
@@ -46298,7 +47488,12 @@
       }
     },
     "best_ZT": 0.8753,
-    "best_PF": 0.0205
+    "best_PF": 0.0205,
+    "space_group": "216",
+    "space_group_type": "F-43m",
+    "point_group": "-43m",
+    "band_character": "Indirect",
+    "band_gap_csv": "0.2053"
   },
   {
     "id": "mp-30459",
@@ -46488,7 +47683,12 @@
       }
     },
     "best_ZT": 0.339,
-    "best_PF": 0.013
+    "best_PF": 0.013,
+    "space_group": "216",
+    "space_group_type": "F-43m",
+    "point_group": "-43m",
+    "band_character": "Indirect",
+    "band_gap_csv": "0.1739"
   },
   {
     "id": "mp-30460",
@@ -46975,7 +48175,12 @@
       }
     },
     "best_ZT": 1.9826,
-    "best_PF": 0.02
+    "best_PF": 0.02,
+    "space_group": "216",
+    "space_group_type": "F-43m",
+    "point_group": "-43m",
+    "band_character": "Indirect",
+    "band_gap_csv": "0.1951"
   },
   {
     "id": "mp-3056",
@@ -47165,7 +48370,12 @@
       }
     },
     "best_ZT": 0.1315,
-    "best_PF": 0.0027
+    "best_PF": 0.0027,
+    "space_group": "166",
+    "space_group_type": "R-3m",
+    "point_group": "-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "0.7043"
   },
   {
     "id": "mp-30847",
@@ -47355,7 +48565,12 @@
       }
     },
     "best_ZT": 0.3393,
-    "best_PF": 0.0064
+    "best_PF": 0.0064,
+    "space_group": "216",
+    "space_group_type": "F-43m",
+    "point_group": "-43m",
+    "band_character": "Indirect",
+    "band_gap_csv": "0.7899"
   },
   {
     "id": "mp-30993",
@@ -47545,7 +48760,12 @@
       }
     },
     "best_ZT": 0.0191,
-    "best_PF": 0.0004
+    "best_PF": 0.0004,
+    "space_group": "129",
+    "space_group_type": "P4/nmm",
+    "point_group": "4/mmm",
+    "band_character": "Direct",
+    "band_gap_csv": "3.2744"
   },
   {
     "id": "mp-31049",
@@ -47735,7 +48955,12 @@
       }
     },
     "best_ZT": 0.0061,
-    "best_PF": 0.0004
+    "best_PF": 0.0004,
+    "space_group": "12",
+    "space_group_type": "C2/m",
+    "point_group": "2/m",
+    "band_character": "Indirect",
+    "band_gap_csv": "3.4627"
   },
   {
     "id": "mp-31149",
@@ -47925,7 +49150,12 @@
       }
     },
     "best_ZT": 0.0793,
-    "best_PF": 0.0013
+    "best_PF": 0.0013,
+    "space_group": "221",
+    "space_group_type": "Pm-3m",
+    "point_group": "m-3m",
+    "band_character": "Direct",
+    "band_gap_csv": "0.3755"
   },
   {
     "id": "mp-31166",
@@ -48115,7 +49345,12 @@
       }
     },
     "best_ZT": 0.096,
-    "best_PF": 0.0009
+    "best_PF": 0.0009,
+    "space_group": "166",
+    "space_group_type": "R-3m",
+    "point_group": "-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "1.5347"
   },
   {
     "id": "mp-31451",
@@ -48305,7 +49540,12 @@
       }
     },
     "best_ZT": 0.5119,
-    "best_PF": 0.0343
+    "best_PF": 0.0343,
+    "space_group": "216",
+    "space_group_type": "F-43m",
+    "point_group": "-43m",
+    "band_character": "Indirect",
+    "band_gap_csv": "0.9897"
   },
   {
     "id": "mp-31454",
@@ -48495,7 +49735,12 @@
       }
     },
     "best_ZT": 0.1021,
-    "best_PF": 0.0072
+    "best_PF": 0.0072,
+    "space_group": "216",
+    "space_group_type": "F-43m",
+    "point_group": "-43m",
+    "band_character": "Indirect",
+    "band_gap_csv": "0.648"
   },
   {
     "id": "mp-315",
@@ -48685,7 +49930,12 @@
       }
     },
     "best_ZT": 0.5335,
-    "best_PF": 0.0004
+    "best_PF": 0.0004,
+    "space_group": "225",
+    "space_group_type": "Fm-3m",
+    "point_group": "m-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "4.4061"
   },
   {
     "id": "mp-33723",
@@ -48875,7 +50125,12 @@
       }
     },
     "best_ZT": 0.118,
-    "best_PF": 0.0005
+    "best_PF": 0.0005,
+    "space_group": "156",
+    "space_group_type": "P3m1",
+    "point_group": "3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "1.2308"
   },
   {
     "id": "mp-3432",
@@ -49065,7 +50320,12 @@
       }
     },
     "best_ZT": 0.178,
-    "best_PF": 0.0094
+    "best_PF": 0.0094,
+    "space_group": "216",
+    "space_group_type": "F-43m",
+    "point_group": "-43m",
+    "band_character": "Indirect",
+    "band_gap_csv": "0.2573"
   },
   {
     "id": "mp-34337",
@@ -49255,7 +50515,12 @@
       }
     },
     "best_ZT": 0.0951,
-    "best_PF": 0.0021
+    "best_PF": 0.0021,
+    "space_group": "215",
+    "space_group_type": "P-43m",
+    "point_group": "-43m",
+    "band_character": "Direct",
+    "band_gap_csv": "5.2957"
   },
   {
     "id": "mp-36111",
@@ -49445,7 +50710,12 @@
       }
     },
     "best_ZT": 0.0952,
-    "best_PF": 0.0016
+    "best_PF": 0.0016,
+    "space_group": "216",
+    "space_group_type": "F-43m",
+    "point_group": "-43m",
+    "band_character": "Indirect",
+    "band_gap_csv": "1.5335"
   },
   {
     "id": "mp-3613",
@@ -49635,7 +50905,12 @@
       }
     },
     "best_ZT": 0.1021,
-    "best_PF": 0.0015
+    "best_PF": 0.0015,
+    "space_group": "166",
+    "space_group_type": "R-3m",
+    "point_group": "-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "2.3102"
   },
   {
     "id": "mp-3664",
@@ -49825,7 +51100,12 @@
       }
     },
     "best_ZT": 0.0992,
-    "best_PF": 0.001
+    "best_PF": 0.001,
+    "space_group": "166",
+    "space_group_type": "R-3m",
+    "point_group": "-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "1.6151"
   },
   {
     "id": "mp-3716",
@@ -50015,7 +51295,12 @@
       }
     },
     "best_ZT": 0.3598,
-    "best_PF": 0.0108
+    "best_PF": 0.0108,
+    "space_group": "216",
+    "space_group_type": "F-43m",
+    "point_group": "-43m",
+    "band_character": "Indirect",
+    "band_gap_csv": "0.3255"
   },
   {
     "id": "mp-3748",
@@ -50205,7 +51490,12 @@
       }
     },
     "best_ZT": 0.012,
-    "best_PF": 0.0034
+    "best_PF": 0.0034,
+    "space_group": "166",
+    "space_group_type": "R-3m",
+    "point_group": "-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "1.8733"
   },
   {
     "id": "mp-37906",
@@ -50395,7 +51685,12 @@
       }
     },
     "best_ZT": 0.0358,
-    "best_PF": 0.0024
+    "best_PF": 0.0024,
+    "space_group": "216",
+    "space_group_type": "F-43m",
+    "point_group": "-43m",
+    "band_character": "Direct",
+    "band_gap_csv": "2.3472"
   },
   {
     "id": "mp-390",
@@ -50585,7 +51880,12 @@
       }
     },
     "best_ZT": 0.077,
-    "best_PF": 0.0022
+    "best_PF": 0.0022,
+    "space_group": "141",
+    "space_group_type": "I4_1/amd",
+    "point_group": "4/mmm",
+    "band_character": "Indirect",
+    "band_gap_csv": "2.0782"
   },
   {
     "id": "mp-3915",
@@ -50775,7 +52075,12 @@
       }
     },
     "best_ZT": 0.1276,
-    "best_PF": 0.004
+    "best_PF": 0.004,
+    "space_group": "166",
+    "space_group_type": "R-3m",
+    "point_group": "-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "2.3123"
   },
   {
     "id": "mp-3960",
@@ -50965,7 +52270,12 @@
       }
     },
     "best_ZT": 0.0566,
-    "best_PF": 0.0022
+    "best_PF": 0.0022,
+    "space_group": "166",
+    "space_group_type": "R-3m",
+    "point_group": "-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "2.2756"
   },
   {
     "id": "mp-3992",
@@ -51155,7 +52465,12 @@
       }
     },
     "best_ZT": 0.032,
-    "best_PF": 0.0007
+    "best_PF": 0.0007,
+    "space_group": "129",
+    "space_group_type": "P4/nmm",
+    "point_group": "4/mmm",
+    "band_character": "Direct",
+    "band_gap_csv": "1.1953"
   },
   {
     "id": "mp-4025",
@@ -51345,7 +52660,12 @@
       }
     },
     "best_ZT": 3.1688,
-    "best_PF": 0.0109
+    "best_PF": 0.0109,
+    "space_group": "216",
+    "space_group_type": "F-43m",
+    "point_group": "-43m",
+    "band_character": "Indirect",
+    "band_gap_csv": "0.2399"
   },
   {
     "id": "mp-406",
@@ -51535,7 +52855,12 @@
       }
     },
     "best_ZT": 0.2005,
-    "best_PF": 0.0017
+    "best_PF": 0.0017,
+    "space_group": "216",
+    "space_group_type": "F-43m",
+    "point_group": "-43m",
+    "band_character": "Direct",
+    "band_gap_csv": "0.6406"
   },
   {
     "id": "mp-408",
@@ -51725,7 +53050,12 @@
       }
     },
     "best_ZT": 0.5444,
-    "best_PF": 0.0064
+    "best_PF": 0.0064,
+    "space_group": "225",
+    "space_group_type": "Fm-3m",
+    "point_group": "m-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "0.1521"
   },
   {
     "id": "mp-4123",
@@ -51915,7 +53245,12 @@
       }
     },
     "best_ZT": 0.0891,
-    "best_PF": 0.0009
+    "best_PF": 0.0009,
+    "space_group": "166",
+    "space_group_type": "R-3m",
+    "point_group": "-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "1.41"
   },
   {
     "id": "mp-4124",
@@ -52105,7 +53440,12 @@
       }
     },
     "best_ZT": 0.0803,
-    "best_PF": 0.0021
+    "best_PF": 0.0021,
+    "space_group": "166",
+    "space_group_type": "R-3m",
+    "point_group": "-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "3.7135"
   },
   {
     "id": "mp-4174",
@@ -52295,7 +53635,12 @@
       }
     },
     "best_ZT": 0.365,
-    "best_PF": 0.0106
+    "best_PF": 0.0106,
+    "space_group": "216",
+    "space_group_type": "F-43m",
+    "point_group": "-43m",
+    "band_character": "Indirect",
+    "band_gap_csv": "0.2874"
   },
   {
     "id": "mp-422",
@@ -52485,7 +53830,12 @@
       }
     },
     "best_ZT": 0.0041,
-    "best_PF": 0.0017
+    "best_PF": 0.0017,
+    "space_group": "216",
+    "space_group_type": "F-43m",
+    "point_group": "-43m",
+    "band_character": "Indirect",
+    "band_gap_csv": "3.1234"
   },
   {
     "id": "mp-4326",
@@ -52675,7 +54025,12 @@
       }
     },
     "best_ZT": 0.112,
-    "best_PF": 0.0015
+    "best_PF": 0.0015,
+    "space_group": "166",
+    "space_group_type": "R-3m",
+    "point_group": "-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "2.3514"
   },
   {
     "id": "mp-441",
@@ -52865,7 +54220,12 @@
       }
     },
     "best_ZT": 0.4251,
-    "best_PF": 0.0008
+    "best_PF": 0.0008,
+    "space_group": "225",
+    "space_group_type": "Fm-3m",
+    "point_group": "m-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "1.8801"
   },
   {
     "id": "mp-4510",
@@ -53055,7 +54415,12 @@
       }
     },
     "best_ZT": 0.4855,
-    "best_PF": 0.0107
+    "best_PF": 0.0107,
+    "space_group": "216",
+    "space_group_type": "F-43m",
+    "point_group": "-43m",
+    "band_character": "Indirect",
+    "band_gap_csv": "0.2934"
   },
   {
     "id": "mp-4519",
@@ -53245,7 +54610,12 @@
       }
     },
     "best_ZT": 0.065,
-    "best_PF": 0.0016
+    "best_PF": 0.0016,
+    "space_group": "166",
+    "space_group_type": "R-3m",
+    "point_group": "-3m",
+    "band_character": "Direct",
+    "band_gap_csv": "3.6568"
   },
   {
     "id": "mp-463",
@@ -53435,7 +54805,12 @@
       }
     },
     "best_ZT": 0.6601,
-    "best_PF": 0.0132
+    "best_PF": 0.0132,
+    "space_group": "225",
+    "space_group_type": "Fm-3m",
+    "point_group": "m-3m",
+    "band_character": "Direct",
+    "band_gap_csv": "6.4791"
   },
   {
     "id": "mp-470",
@@ -53625,7 +55000,12 @@
       }
     },
     "best_ZT": 0.0012,
-    "best_PF": 0.0002
+    "best_PF": 0.0002,
+    "space_group": "136",
+    "space_group_type": "P4_2/mnm",
+    "point_group": "4/mmm",
+    "band_character": "Direct",
+    "band_gap_csv": "1.5412"
   },
   {
     "id": "mp-471",
@@ -53815,7 +55195,12 @@
       }
     },
     "best_ZT": 0.3301,
-    "best_PF": 0.003
+    "best_PF": 0.003,
+    "space_group": "98",
+    "space_group_type": "I4_122",
+    "point_group": "422",
+    "band_character": "Indirect",
+    "band_gap_csv": "0.1867"
   },
   {
     "id": "mp-4805",
@@ -54005,7 +55390,12 @@
       }
     },
     "best_ZT": 0.0325,
-    "best_PF": 0.0006
+    "best_PF": 0.0006,
+    "space_group": "164",
+    "space_group_type": "P-3m1",
+    "point_group": "-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "2.995"
   },
   {
     "id": "mp-4824",
@@ -54195,7 +55585,12 @@
       }
     },
     "best_ZT": 0.2162,
-    "best_PF": 0.0016
+    "best_PF": 0.0016,
+    "space_group": "129",
+    "space_group_type": "P4/nmm",
+    "point_group": "4/mmm",
+    "band_character": "Direct",
+    "band_gap_csv": "0.9151"
   },
   {
     "id": "mp-4961",
@@ -54385,7 +55780,12 @@
       }
     },
     "best_ZT": 0.1061,
-    "best_PF": 0.0037
+    "best_PF": 0.0037,
+    "space_group": "139",
+    "space_group_type": "I4/mmm",
+    "point_group": "4/mmm",
+    "band_character": "Indirect",
+    "band_gap_csv": "1.7127"
   },
   {
     "id": "mp-4964",
@@ -54575,7 +55975,12 @@
       }
     },
     "best_ZT": 0.5644,
-    "best_PF": 0.0259
+    "best_PF": 0.0259,
+    "space_group": "216",
+    "space_group_type": "F-43m",
+    "point_group": "-43m",
+    "band_character": "Direct",
+    "band_gap_csv": "0.1722"
   },
   {
     "id": "mp-505297",
@@ -54765,7 +56170,12 @@
       }
     },
     "best_ZT": 0.0946,
-    "best_PF": 0.0078
+    "best_PF": 0.0078,
+    "space_group": "216",
+    "space_group_type": "F-43m",
+    "point_group": "-43m",
+    "band_character": "Indirect",
+    "band_gap_csv": "0.364"
   },
   {
     "id": "mp-5072",
@@ -54977,7 +56387,12 @@
       }
     },
     "best_ZT": 0.174,
-    "best_PF": 0.0019
+    "best_PF": 0.0019,
+    "space_group": "139",
+    "space_group_type": "I4/mmm",
+    "point_group": "4/mmm",
+    "band_character": "Direct",
+    "band_gap_csv": "2.1005"
   },
   {
     "id": "mp-5077",
@@ -55167,7 +56582,12 @@
       }
     },
     "best_ZT": 0.1644,
-    "best_PF": 0.002
+    "best_PF": 0.002,
+    "space_group": "225",
+    "space_group_type": "Fm-3m",
+    "point_group": "m-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "0.6857"
   },
   {
     "id": "mp-5175",
@@ -55357,7 +56777,12 @@
       }
     },
     "best_ZT": 0.1001,
-    "best_PF": 0.0037
+    "best_PF": 0.0037,
+    "space_group": "166",
+    "space_group_type": "R-3m",
+    "point_group": "-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "2.0685"
   },
   {
     "id": "mp-5394",
@@ -55547,7 +56972,12 @@
       }
     },
     "best_ZT": 0.0459,
-    "best_PF": 0.0009
+    "best_PF": 0.0009,
+    "space_group": "129",
+    "space_group_type": "P4/nmm",
+    "point_group": "4/mmm",
+    "band_character": "Direct",
+    "band_gap_csv": "1.4222"
   },
   {
     "id": "mp-541037",
@@ -55737,7 +57167,12 @@
       }
     },
     "best_ZT": 0.0569,
-    "best_PF": 0.0004
+    "best_PF": 0.0004,
+    "space_group": "63",
+    "space_group_type": "Cmcm",
+    "point_group": "mmm",
+    "band_character": "Indirect",
+    "band_gap_csv": "1.1566"
   },
   {
     "id": "mp-556382",
@@ -55927,7 +57362,12 @@
       }
     },
     "best_ZT": 0.3164,
-    "best_PF": 0.0055
+    "best_PF": 0.0055,
+    "space_group": "129",
+    "space_group_type": "P4/nmm",
+    "point_group": "4/mmm",
+    "band_character": "Direct",
+    "band_gap_csv": "5.5546"
   },
   {
     "id": "mp-557655",
@@ -56117,7 +57557,12 @@
       }
     },
     "best_ZT": 0.1668,
-    "best_PF": 0.0017
+    "best_PF": 0.0017,
+    "space_group": "166",
+    "space_group_type": "R-3m",
+    "point_group": "-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "1.6421"
   },
   {
     "id": "mp-5598",
@@ -56307,7 +57752,12 @@
       }
     },
     "best_ZT": 0.0236,
-    "best_PF": 0.0008
+    "best_PF": 0.0008,
+    "space_group": "164",
+    "space_group_type": "P-3m1",
+    "point_group": "-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "2.9474"
   },
   {
     "id": "mp-561203",
@@ -56497,7 +57947,12 @@
       }
     },
     "best_ZT": 0.0174,
-    "best_PF": 0.0013
+    "best_PF": 0.0013,
+    "space_group": "15",
+    "space_group_type": "C2/c",
+    "point_group": "2/m",
+    "band_character": "Direct",
+    "band_gap_csv": "2.1789"
   },
   {
     "id": "mp-561586",
@@ -56687,7 +58142,12 @@
       }
     },
     "best_ZT": 0.5121,
-    "best_PF": 0.0018
+    "best_PF": 0.0018,
+    "space_group": "166",
+    "space_group_type": "R-3m",
+    "point_group": "-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "2.498"
   },
   {
     "id": "mp-561751",
@@ -56877,7 +58337,12 @@
       }
     },
     "best_ZT": 0.2138,
-    "best_PF": 0.0018
+    "best_PF": 0.0018,
+    "space_group": "166",
+    "space_group_type": "R-3m",
+    "point_group": "-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "2.1357"
   },
   {
     "id": "mp-5634",
@@ -57067,7 +58532,12 @@
       }
     },
     "best_ZT": 0.0133,
-    "best_PF": 0.0005
+    "best_PF": 0.0005,
+    "space_group": "166",
+    "space_group_type": "R-3m",
+    "point_group": "-3m",
+    "band_character": "Direct",
+    "band_gap_csv": "4.5721"
   },
   {
     "id": "mp-567290",
@@ -57257,7 +58727,12 @@
       }
     },
     "best_ZT": 0.0015,
-    "best_PF": 0.0007
+    "best_PF": 0.0007,
+    "space_group": "186",
+    "space_group_type": "P6_3mc",
+    "point_group": "6mm",
+    "band_character": "Indirect",
+    "band_gap_csv": "1.1296"
   },
   {
     "id": "mp-567636",
@@ -57447,7 +58922,12 @@
       }
     },
     "best_ZT": 0.2748,
-    "best_PF": 0.0238
+    "best_PF": 0.0238,
+    "space_group": "216",
+    "space_group_type": "F-43m",
+    "point_group": "-43m",
+    "band_character": "Indirect",
+    "band_gap_csv": "0.3494"
   },
   {
     "id": "mp-568062",
@@ -57637,7 +59117,12 @@
       }
     },
     "best_ZT": 0.2269,
-    "best_PF": 0.0017
+    "best_PF": 0.0017,
+    "space_group": "166",
+    "space_group_type": "R-3m",
+    "point_group": "-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "1.2282"
   },
   {
     "id": "mp-568269",
@@ -57827,7 +59312,12 @@
       }
     },
     "best_ZT": 1.0167,
-    "best_PF": 0.0273
+    "best_PF": 0.0273,
+    "space_group": "216",
+    "space_group_type": "F-43m",
+    "point_group": "-43m",
+    "band_character": "Indirect",
+    "band_gap_csv": "0.1441"
   },
   {
     "id": "mp-568560",
@@ -58017,7 +59507,12 @@
       }
     },
     "best_ZT": 0.2882,
-    "best_PF": 0.0004
+    "best_PF": 0.0004,
+    "space_group": "225",
+    "space_group_type": "Fm-3m",
+    "point_group": "m-3m",
+    "band_character": "Direct",
+    "band_gap_csv": "2.1659"
   },
   {
     "id": "mp-568588",
@@ -58207,7 +59702,12 @@
       }
     },
     "best_ZT": 0.1589,
-    "best_PF": 0.0011
+    "best_PF": 0.0011,
+    "space_group": "166",
+    "space_group_type": "R-3m",
+    "point_group": "-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "1.1668"
   },
   {
     "id": "mp-569178",
@@ -58397,7 +59897,12 @@
       }
     },
     "best_ZT": 0.1894,
-    "best_PF": 0.0017
+    "best_PF": 0.0017,
+    "space_group": "166",
+    "space_group_type": "R-3m",
+    "point_group": "-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "1.21"
   },
   {
     "id": "mp-569393",
@@ -58587,7 +60092,12 @@
       }
     },
     "best_ZT": 0.2213,
-    "best_PF": 0.0015
+    "best_PF": 0.0015,
+    "space_group": "166",
+    "space_group_type": "R-3m",
+    "point_group": "-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "1.2021"
   },
   {
     "id": "mp-5694",
@@ -58777,7 +60287,12 @@
       }
     },
     "best_ZT": 0.104,
-    "best_PF": 0.0016
+    "best_PF": 0.0016,
+    "space_group": "166",
+    "space_group_type": "R-3m",
+    "point_group": "-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "2.2568"
   },
   {
     "id": "mp-569507",
@@ -58967,7 +60482,12 @@
       }
     },
     "best_ZT": 0.2079,
-    "best_PF": 0.0015
+    "best_PF": 0.0015,
+    "space_group": "166",
+    "space_group_type": "R-3m",
+    "point_group": "-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "1.1965"
   },
   {
     "id": "mp-569639",
@@ -59157,7 +60677,12 @@
       }
     },
     "best_ZT": 0.15,
-    "best_PF": 0.0004
+    "best_PF": 0.0004,
+    "space_group": "225",
+    "space_group_type": "Fm-3m",
+    "point_group": "m-3m",
+    "band_character": "Direct",
+    "band_gap_csv": "2.4267"
   },
   {
     "id": "mp-569677",
@@ -59347,7 +60872,12 @@
       }
     },
     "best_ZT": 0.0882,
-    "best_PF": 0.0008
+    "best_PF": 0.0008,
+    "space_group": "166",
+    "space_group_type": "R-3m",
+    "point_group": "-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "1.8352"
   },
   {
     "id": "mp-569779",
@@ -59537,7 +61067,12 @@
       }
     },
     "best_ZT": 0.1849,
-    "best_PF": 0.0082
+    "best_PF": 0.0082,
+    "space_group": "216",
+    "space_group_type": "F-43m",
+    "point_group": "-43m",
+    "band_character": "Indirect",
+    "band_gap_csv": "0.2788"
   },
   {
     "id": "mp-570213",
@@ -59727,7 +61262,12 @@
       }
     },
     "best_ZT": 0.546,
-    "best_PF": 0.0042
+    "best_PF": 0.0042,
+    "space_group": "216",
+    "space_group_type": "F-43m",
+    "point_group": "-43m",
+    "band_character": "Direct",
+    "band_gap_csv": "0.3816"
   },
   {
     "id": "mp-570418",
@@ -59917,7 +61457,12 @@
       }
     },
     "best_ZT": 0.5977,
-    "best_PF": 0.0011
+    "best_PF": 0.0011,
+    "space_group": "164",
+    "space_group_type": "P-3m1",
+    "point_group": "-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "3.9599"
   },
   {
     "id": "mp-570485",
@@ -60107,7 +61652,12 @@
       }
     },
     "best_ZT": 0.1579,
-    "best_PF": 0.0061
+    "best_PF": 0.0061,
+    "space_group": "156",
+    "space_group_type": "P3m1",
+    "point_group": "3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "0.6228"
   },
   {
     "id": "mp-570935",
@@ -60297,7 +61847,12 @@
       }
     },
     "best_ZT": 0.0915,
-    "best_PF": 0.0013
+    "best_PF": 0.0013,
+    "space_group": "186",
+    "space_group_type": "P6_3mc",
+    "point_group": "6mm",
+    "band_character": "Direct",
+    "band_gap_csv": "4.3517"
   },
   {
     "id": "mp-571093",
@@ -60487,7 +62042,12 @@
       }
     },
     "best_ZT": 0.2046,
-    "best_PF": 0.009
+    "best_PF": 0.009,
+    "space_group": "156",
+    "space_group_type": "P3m1",
+    "point_group": "3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "0.6973"
   },
   {
     "id": "mp-571102",
@@ -60677,7 +62237,12 @@
       }
     },
     "best_ZT": 0.5273,
-    "best_PF": 0.0004
+    "best_PF": 0.0004,
+    "space_group": "225",
+    "space_group_type": "Fm-3m",
+    "point_group": "m-3m",
+    "band_character": "Direct",
+    "band_gap_csv": "2.1151"
   },
   {
     "id": "mp-571222",
@@ -60867,7 +62432,12 @@
       }
     },
     "best_ZT": 1.5051,
-    "best_PF": 0.0094
+    "best_PF": 0.0094,
+    "space_group": "225",
+    "space_group_type": "Fm-3m",
+    "point_group": "m-3m",
+    "band_character": "Direct",
+    "band_gap_csv": "4.3297"
   },
   {
     "id": "mp-573697",
@@ -61057,7 +62627,12 @@
       }
     },
     "best_ZT": 0.1287,
-    "best_PF": 0.0007
+    "best_PF": 0.0007,
+    "space_group": "225",
+    "space_group_type": "Fm-3m",
+    "point_group": "m-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "4.9467"
   },
   {
     "id": "mp-5760",
@@ -61247,7 +62822,12 @@
       }
     },
     "best_ZT": 0.0317,
-    "best_PF": 0.0007
+    "best_PF": 0.0007,
+    "space_group": "129",
+    "space_group_type": "P4/nmm",
+    "point_group": "4/mmm",
+    "band_character": "Direct",
+    "band_gap_csv": "1.1721"
   },
   {
     "id": "mp-5795",
@@ -61437,7 +63017,12 @@
       }
     },
     "best_ZT": 0.0282,
-    "best_PF": 0.0015
+    "best_PF": 0.0015,
+    "space_group": "164",
+    "space_group_type": "P-3m1",
+    "point_group": "-3m",
+    "band_character": "Direct",
+    "band_gap_csv": "2.1444"
   },
   {
     "id": "mp-5808",
@@ -61627,7 +63212,12 @@
       }
     },
     "best_ZT": 0.1477,
-    "best_PF": 0.0009
+    "best_PF": 0.0009,
+    "space_group": "166",
+    "space_group_type": "R-3m",
+    "point_group": "-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "1.2914"
   },
   {
     "id": "mp-5962",
@@ -61817,7 +63407,12 @@
       }
     },
     "best_ZT": 0.1609,
-    "best_PF": 0.0012
+    "best_PF": 0.0012,
+    "space_group": "129",
+    "space_group_type": "P4/nmm",
+    "point_group": "4/mmm",
+    "band_character": "Indirect",
+    "band_gap_csv": "1.0421"
   },
   {
     "id": "mp-5967",
@@ -62007,7 +63602,12 @@
       }
     },
     "best_ZT": 0.3907,
-    "best_PF": 0.037
+    "best_PF": 0.037,
+    "space_group": "216",
+    "space_group_type": "F-43m",
+    "point_group": "-43m",
+    "band_character": "Indirect",
+    "band_gap_csv": "1.055"
   },
   {
     "id": "mp-614603",
@@ -62197,7 +63797,12 @@
       }
     },
     "best_ZT": 2.0903,
-    "best_PF": 0.0098
+    "best_PF": 0.0098,
+    "space_group": "225",
+    "space_group_type": "Fm-3m",
+    "point_group": "m-3m",
+    "band_character": "Direct",
+    "band_gap_csv": "3.8417"
   },
   {
     "id": "mp-626000",
@@ -62387,7 +63992,12 @@
       }
     },
     "best_ZT": 0.0112,
-    "best_PF": 0.0003
+    "best_PF": 0.0003,
+    "space_group": "4",
+    "space_group_type": "P2_1",
+    "point_group": "2",
+    "band_character": "Indirect",
+    "band_gap_csv": "3.7267"
   },
   {
     "id": "mp-661",
@@ -62577,7 +64187,12 @@
       }
     },
     "best_ZT": 0.0008,
-    "best_PF": 0.0006
+    "best_PF": 0.0006,
+    "space_group": "186",
+    "space_group_type": "P6_3mc",
+    "point_group": "6mm",
+    "band_character": "Direct",
+    "band_gap_csv": "4.1955"
   },
   {
     "id": "mp-665922",
@@ -62767,7 +64382,12 @@
       }
     },
     "best_ZT": 0.878,
-    "best_PF": 0.0105
+    "best_PF": 0.0105,
+    "space_group": "166",
+    "space_group_type": "R-3m",
+    "point_group": "-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "2.2621"
   },
   {
     "id": "mp-672",
@@ -62957,7 +64577,12 @@
       }
     },
     "best_ZT": 0.0525,
-    "best_PF": 0.001
+    "best_PF": 0.001,
+    "space_group": "186",
+    "space_group_type": "P6_3mc",
+    "point_group": "6mm",
+    "band_character": "Direct",
+    "band_gap_csv": "1.1637"
   },
   {
     "id": "mp-675349",
@@ -63147,7 +64772,12 @@
       }
     },
     "best_ZT": 0.6389,
-    "best_PF": 0.0076
+    "best_PF": 0.0076,
+    "space_group": "156",
+    "space_group_type": "P3m1",
+    "point_group": "3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "1.0851"
   },
   {
     "id": "mp-682",
@@ -63337,7 +64967,12 @@
       }
     },
     "best_ZT": 0.0665,
-    "best_PF": 0.0078
+    "best_PF": 0.0078,
+    "space_group": "225",
+    "space_group_type": "Fm-3m",
+    "point_group": "m-3m",
+    "band_character": "Direct",
+    "band_gap_csv": "6.7014"
   },
   {
     "id": "mp-684",
@@ -63527,7 +65162,12 @@
       }
     },
     "best_ZT": 0.1073,
-    "best_PF": 0.0014
+    "best_PF": 0.0014,
+    "space_group": "15",
+    "space_group_type": "C2/c",
+    "point_group": "2/m",
+    "band_character": "Indirect",
+    "band_gap_csv": "1.5529"
   },
   {
     "id": "mp-690794",
@@ -63717,7 +65357,12 @@
       }
     },
     "best_ZT": 0.0453,
-    "best_PF": 0.0006
+    "best_PF": 0.0006,
+    "space_group": "166",
+    "space_group_type": "R-3m",
+    "point_group": "-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "1.793"
   },
   {
     "id": "mp-696804",
@@ -63907,7 +65552,12 @@
       }
     },
     "best_ZT": 0.1677,
-    "best_PF": 0.0008
+    "best_PF": 0.0008,
+    "space_group": "11",
+    "space_group_type": "P2_1/m",
+    "point_group": "2/m",
+    "band_character": "Direct",
+    "band_gap_csv": "3.1732"
   },
   {
     "id": "mp-6973",
@@ -64097,7 +65747,12 @@
       }
     },
     "best_ZT": 0.4217,
-    "best_PF": 0.0006
+    "best_PF": 0.0006,
+    "space_group": "129",
+    "space_group_type": "P4/nmm",
+    "point_group": "4/mmm",
+    "band_character": "Indirect",
+    "band_gap_csv": "2.5716"
   },
   {
     "id": "mp-6978",
@@ -64287,7 +65942,12 @@
       }
     },
     "best_ZT": 0.5903,
-    "best_PF": 0.0099
+    "best_PF": 0.0099,
+    "space_group": "166",
+    "space_group_type": "R-3m",
+    "point_group": "-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "3.6552"
   },
   {
     "id": "mp-6980",
@@ -64477,7 +66137,12 @@
       }
     },
     "best_ZT": 0.2441,
-    "best_PF": 0.0029
+    "best_PF": 0.0029,
+    "space_group": "156",
+    "space_group_type": "P3m1",
+    "point_group": "3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "0.8676"
   },
   {
     "id": "mp-7041",
@@ -64667,7 +66332,12 @@
       }
     },
     "best_ZT": 0.0748,
-    "best_PF": 0.0019
+    "best_PF": 0.0019,
+    "space_group": "166",
+    "space_group_type": "R-3m",
+    "point_group": "-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "2.1909"
   },
   {
     "id": "mp-7045",
@@ -64857,7 +66527,12 @@
       }
     },
     "best_ZT": 0.1822,
-    "best_PF": 0.0026
+    "best_PF": 0.0026,
+    "space_group": "166",
+    "space_group_type": "R-3m",
+    "point_group": "-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "2.2906"
   },
   {
     "id": "mp-7046",
@@ -65047,7 +66722,12 @@
       }
     },
     "best_ZT": 0.1179,
-    "best_PF": 0.0017
+    "best_PF": 0.0017,
+    "space_group": "166",
+    "space_group_type": "R-3m",
+    "point_group": "-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "2.3031"
   },
   {
     "id": "mp-706",
@@ -65237,7 +66917,12 @@
       }
     },
     "best_ZT": 0.1036,
-    "best_PF": 0.0004
+    "best_PF": 0.0004,
+    "space_group": "139",
+    "space_group_type": "I4/mmm",
+    "point_group": "4/mmm",
+    "band_character": "Indirect",
+    "band_gap_csv": "1.1036"
   },
   {
     "id": "mp-7067",
@@ -65724,7 +67409,12 @@
       }
     },
     "best_ZT": 0.4453,
-    "best_PF": 0.0025
+    "best_PF": 0.0025,
+    "space_group": "164",
+    "space_group_type": "P-3m1",
+    "point_group": "-3m",
+    "band_character": "Direct",
+    "band_gap_csv": "0.2501"
   },
   {
     "id": "mp-7089",
@@ -65914,7 +67604,12 @@
       }
     },
     "best_ZT": 0.1368,
-    "best_PF": 0.0016
+    "best_PF": 0.0016,
+    "space_group": "129",
+    "space_group_type": "P4/nmm",
+    "point_group": "4/mmm",
+    "band_character": "Indirect",
+    "band_gap_csv": "1.277"
   },
   {
     "id": "mp-7173",
@@ -66104,7 +67799,12 @@
       }
     },
     "best_ZT": 0.227,
-    "best_PF": 0.0104
+    "best_PF": 0.0104,
+    "space_group": "216",
+    "space_group_type": "F-43m",
+    "point_group": "-43m",
+    "band_character": "Indirect",
+    "band_gap_csv": "0.656"
   },
   {
     "id": "mp-7176",
@@ -66294,7 +67994,12 @@
       }
     },
     "best_ZT": 0.2072,
-    "best_PF": 0.0025
+    "best_PF": 0.0025,
+    "space_group": "166",
+    "space_group_type": "R-3m",
+    "point_group": "-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "2.3053"
   },
   {
     "id": "mp-7232",
@@ -66484,7 +68189,12 @@
       }
     },
     "best_ZT": 0.0634,
-    "best_PF": 0.0004
+    "best_PF": 0.0004,
+    "space_group": "139",
+    "space_group_type": "I4/mmm",
+    "point_group": "4/mmm",
+    "band_character": "Indirect",
+    "band_gap_csv": "2.1108"
   },
   {
     "id": "mp-7476",
@@ -66674,7 +68384,12 @@
       }
     },
     "best_ZT": 0.6544,
-    "best_PF": 0.0104
+    "best_PF": 0.0104,
+    "space_group": "166",
+    "space_group_type": "R-3m",
+    "point_group": "-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "3.6317"
   },
   {
     "id": "mp-7477",
@@ -66864,7 +68579,12 @@
       }
     },
     "best_ZT": 0.5171,
-    "best_PF": 0.0095
+    "best_PF": 0.0095,
+    "space_group": "166",
+    "space_group_type": "R-3m",
+    "point_group": "-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "3.6763"
   },
   {
     "id": "mp-7478",
@@ -67054,7 +68774,12 @@
       }
     },
     "best_ZT": 0.2644,
-    "best_PF": 0.0064
+    "best_PF": 0.0064,
+    "space_group": "166",
+    "space_group_type": "R-3m",
+    "point_group": "-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "3.692"
   },
   {
     "id": "mp-7480",
@@ -67244,7 +68969,12 @@
       }
     },
     "best_ZT": 0.0788,
-    "best_PF": 0.0024
+    "best_PF": 0.0024,
+    "space_group": "166",
+    "space_group_type": "R-3m",
+    "point_group": "-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "3.7329"
   },
   {
     "id": "mp-7523",
@@ -67434,7 +69164,12 @@
       }
     },
     "best_ZT": 0.1094,
-    "best_PF": 0.0031
+    "best_PF": 0.0031,
+    "space_group": "139",
+    "space_group_type": "I4/mmm",
+    "point_group": "4/mmm",
+    "band_character": "Direct",
+    "band_gap_csv": "1.5969"
   },
   {
     "id": "mp-752658",
@@ -67624,7 +69359,12 @@
       }
     },
     "best_ZT": 0.0065,
-    "best_PF": 0.0005
+    "best_PF": 0.0005,
+    "space_group": "5",
+    "space_group_type": "C2",
+    "point_group": "2",
+    "band_character": "Indirect",
+    "band_gap_csv": "2.1871"
   },
   {
     "id": "mp-753287",
@@ -67814,7 +69554,12 @@
       }
     },
     "best_ZT": 0.0335,
-    "best_PF": 0.0017
+    "best_PF": 0.0017,
+    "space_group": "123",
+    "space_group_type": "P4/mmm",
+    "point_group": "4/mmm",
+    "band_character": "Indirect",
+    "band_gap_csv": "0.4329"
   },
   {
     "id": "mp-754158",
@@ -68004,7 +69749,12 @@
       }
     },
     "best_ZT": 0.1187,
-    "best_PF": 0.003
+    "best_PF": 0.003,
+    "space_group": "166",
+    "space_group_type": "R-3m",
+    "point_group": "-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "3.7083"
   },
   {
     "id": "mp-754326",
@@ -68194,7 +69944,12 @@
       }
     },
     "best_ZT": 0.0123,
-    "best_PF": 0.0009
+    "best_PF": 0.0009,
+    "space_group": "12",
+    "space_group_type": "C2/m",
+    "point_group": "2/m",
+    "band_character": "Indirect",
+    "band_gap_csv": "0.8068"
   },
   {
     "id": "mp-754825",
@@ -68384,7 +70139,12 @@
       }
     },
     "best_ZT": 0.2243,
-    "best_PF": 0.0015
+    "best_PF": 0.0015,
+    "space_group": "166",
+    "space_group_type": "R-3m",
+    "point_group": "-3m",
+    "band_character": "Direct",
+    "band_gap_csv": "4.3685"
   },
   {
     "id": "mp-755311",
@@ -68574,7 +70334,12 @@
       }
     },
     "best_ZT": 0.0375,
-    "best_PF": 0.0018
+    "best_PF": 0.0018,
+    "space_group": "166",
+    "space_group_type": "R-3m",
+    "point_group": "-3m",
+    "band_character": "Direct",
+    "band_gap_csv": "4.3731"
   },
   {
     "id": "mp-755340",
@@ -68764,7 +70529,12 @@
       }
     },
     "best_ZT": 0.0075,
-    "best_PF": 0.0005
+    "best_PF": 0.0005,
+    "space_group": "5",
+    "space_group_type": "C2",
+    "point_group": "2",
+    "band_character": "Indirect",
+    "band_gap_csv": "2.1766"
   },
   {
     "id": "mp-757021",
@@ -68954,7 +70724,12 @@
       }
     },
     "best_ZT": 0.3063,
-    "best_PF": 0.0108
+    "best_PF": 0.0108,
+    "space_group": "166",
+    "space_group_type": "R-3m",
+    "point_group": "-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "3.9121"
   },
   {
     "id": "mp-7575",
@@ -69144,7 +70919,12 @@
       }
     },
     "best_ZT": 0.0307,
-    "best_PF": 0.0013
+    "best_PF": 0.0013,
+    "space_group": "216",
+    "space_group_type": "F-43m",
+    "point_group": "-43m",
+    "band_character": "Direct",
+    "band_gap_csv": "0.5461"
   },
   {
     "id": "mp-760",
@@ -69334,7 +71114,12 @@
       }
     },
     "best_ZT": 0.0354,
-    "best_PF": 0.0039
+    "best_PF": 0.0039,
+    "space_group": "58",
+    "space_group_type": "Pnnm",
+    "point_group": "mmm",
+    "band_character": "Indirect",
+    "band_gap_csv": "0.4044"
   },
   {
     "id": "mp-762",
@@ -69524,7 +71309,12 @@
       }
     },
     "best_ZT": 0.0966,
-    "best_PF": 0.0037
+    "best_PF": 0.0037,
+    "space_group": "164",
+    "space_group_type": "P-3m1",
+    "point_group": "-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "1.2871"
   },
   {
     "id": "mp-766",
@@ -69714,7 +71504,12 @@
       }
     },
     "best_ZT": 0.0575,
-    "best_PF": 0.0094
+    "best_PF": 0.0094,
+    "space_group": "58",
+    "space_group_type": "Pnnm",
+    "point_group": "mmm",
+    "band_character": "Indirect",
+    "band_gap_csv": "0.4482"
   },
   {
     "id": "mp-7738",
@@ -69904,7 +71699,12 @@
       }
     },
     "best_ZT": 0.0222,
-    "best_PF": 0.0006
+    "best_PF": 0.0006,
+    "space_group": "194",
+    "space_group_type": "P6_3/mmc",
+    "point_group": "6/mmm",
+    "band_character": "Direct",
+    "band_gap_csv": "1.666"
   },
   {
     "id": "mp-7769",
@@ -70094,7 +71894,12 @@
       }
     },
     "best_ZT": 0.0211,
-    "best_PF": 0.0012
+    "best_PF": 0.0012,
+    "space_group": "164",
+    "space_group_type": "P-3m1",
+    "point_group": "-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "1.4196"
   },
   {
     "id": "mp-7895",
@@ -70284,7 +72089,12 @@
       }
     },
     "best_ZT": 0.0061,
-    "best_PF": 0.0001
+    "best_PF": 0.0001,
+    "space_group": "71",
+    "space_group_type": "Immm",
+    "point_group": "mmm",
+    "band_character": "Indirect",
+    "band_gap_csv": "1.8955"
   },
   {
     "id": "mp-7914",
@@ -70474,7 +72284,12 @@
       }
     },
     "best_ZT": 0.0589,
-    "best_PF": 0.0026
+    "best_PF": 0.0026,
+    "space_group": "166",
+    "space_group_type": "R-3m",
+    "point_group": "-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "3.9955"
   },
   {
     "id": "mp-7950",
@@ -70664,7 +72479,12 @@
       }
     },
     "best_ZT": 0.0137,
-    "best_PF": 0.0004
+    "best_PF": 0.0004,
+    "space_group": "129",
+    "space_group_type": "P4/nmm",
+    "point_group": "4/mmm",
+    "band_character": "Direct",
+    "band_gap_csv": "0.7478"
   },
   {
     "id": "mp-7958",
@@ -70854,7 +72674,12 @@
       }
     },
     "best_ZT": 0.1885,
-    "best_PF": 0.0033
+    "best_PF": 0.0033,
+    "space_group": "166",
+    "space_group_type": "R-3m",
+    "point_group": "-3m",
+    "band_character": "Direct",
+    "band_gap_csv": "3.8405"
   },
   {
     "id": "mp-7959",
@@ -71044,7 +72869,12 @@
       }
     },
     "best_ZT": 0.1733,
-    "best_PF": 0.0079
+    "best_PF": 0.0079,
+    "space_group": "166",
+    "space_group_type": "R-3m",
+    "point_group": "-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "4.0937"
   },
   {
     "id": "mp-7976",
@@ -71234,7 +73064,12 @@
       }
     },
     "best_ZT": 0.7204,
-    "best_PF": 0.0095
+    "best_PF": 0.0095,
+    "space_group": "166",
+    "space_group_type": "R-3m",
+    "point_group": "-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "3.5752"
   },
   {
     "id": "mp-804",
@@ -71424,7 +73259,12 @@
       }
     },
     "best_ZT": 0.0019,
-    "best_PF": 0.0013
+    "best_PF": 0.0013,
+    "space_group": "186",
+    "space_group_type": "P6_3mc",
+    "point_group": "6mm",
+    "band_character": "Direct",
+    "band_gap_csv": "1.8512"
   },
   {
     "id": "mp-8041",
@@ -71614,7 +73454,12 @@
       }
     },
     "best_ZT": 1.2462,
-    "best_PF": 0.0047
+    "best_PF": 0.0047,
+    "space_group": "225",
+    "space_group_type": "Fm-3m",
+    "point_group": "m-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "2.0078"
   },
   {
     "id": "mp-8136",
@@ -71804,7 +73649,12 @@
       }
     },
     "best_ZT": 0.0205,
-    "best_PF": 0.0008
+    "best_PF": 0.0008,
+    "space_group": "129",
+    "space_group_type": "P4/nmm",
+    "point_group": "4/mmm",
+    "band_character": "Direct",
+    "band_gap_csv": "1.0899"
   },
   {
     "id": "mp-8176",
@@ -71994,7 +73844,12 @@
       }
     },
     "best_ZT": 0.3235,
-    "best_PF": 0.0043
+    "best_PF": 0.0043,
+    "space_group": "166",
+    "space_group_type": "R-3m",
+    "point_group": "-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "0.9723"
   },
   {
     "id": "mp-8188",
@@ -72184,7 +74039,12 @@
       }
     },
     "best_ZT": 0.1489,
-    "best_PF": 0.0053
+    "best_PF": 0.0053,
+    "space_group": "166",
+    "space_group_type": "R-3m",
+    "point_group": "-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "3.6439"
   },
   {
     "id": "mp-8260",
@@ -72440,7 +74300,12 @@
       }
     },
     "best_ZT": 0.1984,
-    "best_PF": 0.0031
+    "best_PF": 0.0031,
+    "space_group": "166",
+    "space_group_type": "R-3m",
+    "point_group": "-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "2.2109"
   },
   {
     "id": "mp-8276",
@@ -72630,7 +74495,12 @@
       }
     },
     "best_ZT": 1.1758,
-    "best_PF": 0.0034
+    "best_PF": 0.0034,
+    "space_group": "164",
+    "space_group_type": "P-3m1",
+    "point_group": "-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "0.8457"
   },
   {
     "id": "mp-8277",
@@ -72820,7 +74690,12 @@
       }
     },
     "best_ZT": 0.1103,
-    "best_PF": 0.0012
+    "best_PF": 0.0012,
+    "space_group": "164",
+    "space_group_type": "P-3m1",
+    "point_group": "-3m",
+    "band_character": "Direct",
+    "band_gap_csv": "0.7614"
   },
   {
     "id": "mp-8279",
@@ -73010,7 +74885,12 @@
       }
     },
     "best_ZT": 0.4247,
-    "best_PF": 0.0043
+    "best_PF": 0.0043,
+    "space_group": "164",
+    "space_group_type": "P-3m1",
+    "point_group": "-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "0.7234"
   },
   {
     "id": "mp-8280",
@@ -73200,7 +75080,12 @@
       }
     },
     "best_ZT": 0.2044,
-    "best_PF": 0.0041
+    "best_PF": 0.0041,
+    "space_group": "164",
+    "space_group_type": "P-3m1",
+    "point_group": "-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "1.065"
   },
   {
     "id": "mp-8281",
@@ -73390,7 +75275,12 @@
       }
     },
     "best_ZT": 0.7419,
-    "best_PF": 0.0037
+    "best_PF": 0.0037,
+    "space_group": "164",
+    "space_group_type": "P-3m1",
+    "point_group": "-3m",
+    "band_character": "Direct",
+    "band_gap_csv": "0.1866"
   },
   {
     "id": "mp-8399",
@@ -73580,7 +75470,12 @@
       }
     },
     "best_ZT": 0.6677,
-    "best_PF": 0.0006
+    "best_PF": 0.0006,
+    "space_group": "221",
+    "space_group_type": "Pm-3m",
+    "point_group": "m-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "3.4158"
   },
   {
     "id": "mp-8402",
@@ -73770,7 +75665,12 @@
       }
     },
     "best_ZT": 0.3769,
-    "best_PF": 0.0099
+    "best_PF": 0.0099,
+    "space_group": "221",
+    "space_group_type": "Pm-3m",
+    "point_group": "m-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "7.6079"
   },
   {
     "id": "mp-8409",
@@ -73960,7 +75860,12 @@
       }
     },
     "best_ZT": 0.2584,
-    "best_PF": 0.0102
+    "best_PF": 0.0102,
+    "space_group": "166",
+    "space_group_type": "R-3m",
+    "point_group": "-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "4.0485"
   },
   {
     "id": "mp-8426",
@@ -74150,7 +76055,12 @@
       }
     },
     "best_ZT": 0.0435,
-    "best_PF": 0.0002
+    "best_PF": 0.0002,
+    "space_group": "225",
+    "space_group_type": "Fm-3m",
+    "point_group": "m-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "2.1052"
   },
   {
     "id": "mp-8584",
@@ -74340,7 +76250,12 @@
       }
     },
     "best_ZT": 0.1025,
-    "best_PF": 0.0011
+    "best_PF": 0.0011,
+    "space_group": "166",
+    "space_group_type": "R-3m",
+    "point_group": "-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "1.8772"
   },
   {
     "id": "mp-8621",
@@ -74530,7 +76445,12 @@
       }
     },
     "best_ZT": 0.1072,
-    "best_PF": 0.0012
+    "best_PF": 0.0012,
+    "space_group": "71",
+    "space_group_type": "Immm",
+    "point_group": "mmm",
+    "band_character": "Indirect",
+    "band_gap_csv": "0.9385"
   },
   {
     "id": "mp-863251",
@@ -74720,7 +76640,12 @@
       }
     },
     "best_ZT": 2.2025,
-    "best_PF": 0.0151
+    "best_PF": 0.0151,
+    "space_group": "225",
+    "space_group_type": "Fm-3m",
+    "point_group": "m-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "0.5834"
   },
   {
     "id": "mp-863260",
@@ -74910,7 +76835,12 @@
       }
     },
     "best_ZT": 0.4777,
-    "best_PF": 0.0169
+    "best_PF": 0.0169,
+    "space_group": "12",
+    "space_group_type": "C2/m",
+    "point_group": "2/m",
+    "band_character": "Indirect",
+    "band_gap_csv": "1.3335"
   },
   {
     "id": "mp-866229",
@@ -75100,7 +77030,12 @@
       }
     },
     "best_ZT": 2.3466,
-    "best_PF": 0.1211
+    "best_PF": 0.1211,
+    "space_group": "225",
+    "space_group_type": "Fm-3m",
+    "point_group": "m-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "0.1554"
   },
   {
     "id": "mp-867193",
@@ -75290,7 +77225,12 @@
       }
     },
     "best_ZT": 3.0051,
-    "best_PF": 0.0223
+    "best_PF": 0.0223,
+    "space_group": "225",
+    "space_group_type": "Fm-3m",
+    "point_group": "m-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "0.4089"
   },
   {
     "id": "mp-867249",
@@ -75480,7 +77420,12 @@
       }
     },
     "best_ZT": 0.6957,
-    "best_PF": 0.089
+    "best_PF": 0.089,
+    "space_group": "225",
+    "space_group_type": "Fm-3m",
+    "point_group": "m-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "0.3922"
   },
   {
     "id": "mp-8818",
@@ -75670,7 +77615,12 @@
       }
     },
     "best_ZT": 0.1293,
-    "best_PF": 0.0047
+    "best_PF": 0.0047,
+    "space_group": "139",
+    "space_group_type": "I4/mmm",
+    "point_group": "4/mmm",
+    "band_character": "Indirect",
+    "band_gap_csv": "0.7081"
   },
   {
     "id": "mp-8830",
@@ -75860,7 +77810,12 @@
       }
     },
     "best_ZT": 0.0197,
-    "best_PF": 0.0023
+    "best_PF": 0.0023,
+    "space_group": "166",
+    "space_group_type": "R-3m",
+    "point_group": "-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "1.5877"
   },
   {
     "id": "mp-9035",
@@ -76050,7 +78005,12 @@
       }
     },
     "best_ZT": 0.1398,
-    "best_PF": 0.0014
+    "best_PF": 0.0014,
+    "space_group": "166",
+    "space_group_type": "R-3m",
+    "point_group": "-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "2.3505"
   },
   {
     "id": "mp-9036",
@@ -76240,7 +78200,12 @@
       }
     },
     "best_ZT": 0.1265,
-    "best_PF": 0.001
+    "best_PF": 0.001,
+    "space_group": "166",
+    "space_group_type": "R-3m",
+    "point_group": "-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "1.2513"
   },
   {
     "id": "mp-9076",
@@ -76430,7 +78395,12 @@
       }
     },
     "best_ZT": 0.0898,
-    "best_PF": 0.0014
+    "best_PF": 0.0014,
+    "space_group": "166",
+    "space_group_type": "R-3m",
+    "point_group": "-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "2.3105"
   },
   {
     "id": "mp-9082",
@@ -76620,7 +78590,12 @@
       }
     },
     "best_ZT": 0.511,
-    "best_PF": 0.0029
+    "best_PF": 0.0029,
+    "space_group": "166",
+    "space_group_type": "R-3m",
+    "point_group": "-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "2.1257"
   },
   {
     "id": "mp-9084",
@@ -76810,7 +78785,12 @@
       }
     },
     "best_ZT": 0.3776,
-    "best_PF": 0.0028
+    "best_PF": 0.0028,
+    "space_group": "166",
+    "space_group_type": "R-3m",
+    "point_group": "-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "2.1273"
   },
   {
     "id": "mp-9124",
@@ -77000,7 +78980,12 @@
       }
     },
     "best_ZT": 0.839,
-    "best_PF": 0.004
+    "best_PF": 0.004,
+    "space_group": "216",
+    "space_group_type": "F-43m",
+    "point_group": "-43m",
+    "band_character": "Direct",
+    "band_gap_csv": "0.5334"
   },
   {
     "id": "mp-924128",
@@ -77190,7 +79175,12 @@
       }
     },
     "best_ZT": 0.1431,
-    "best_PF": 0.0079
+    "best_PF": 0.0079,
+    "space_group": "216",
+    "space_group_type": "F-43m",
+    "point_group": "-43m",
+    "band_character": "Indirect",
+    "band_gap_csv": "0.3702"
   },
   {
     "id": "mp-924129",
@@ -77380,7 +79370,12 @@
       }
     },
     "best_ZT": 0.155,
-    "best_PF": 0.0082
+    "best_PF": 0.0082,
+    "space_group": "216",
+    "space_group_type": "F-43m",
+    "point_group": "-43m",
+    "band_character": "Indirect",
+    "band_gap_csv": "0.4801"
   },
   {
     "id": "mp-9263",
@@ -77570,7 +79565,12 @@
       }
     },
     "best_ZT": 0.1315,
-    "best_PF": 0.0011
+    "best_PF": 0.0011,
+    "space_group": "166",
+    "space_group_type": "R-3m",
+    "point_group": "-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "1.3325"
   },
   {
     "id": "mp-9306",
@@ -77760,7 +79760,12 @@
       }
     },
     "best_ZT": 0.1515,
-    "best_PF": 0.004
+    "best_PF": 0.004,
+    "space_group": "139",
+    "space_group_type": "I4/mmm",
+    "point_group": "4/mmm",
+    "band_character": "Direct",
+    "band_gap_csv": "0.7586"
   },
   {
     "id": "mp-9361",
@@ -77950,7 +79955,12 @@
       }
     },
     "best_ZT": 0.4424,
-    "best_PF": 0.0063
+    "best_PF": 0.0063,
+    "space_group": "166",
+    "space_group_type": "R-3m",
+    "point_group": "-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "2.6489"
   },
   {
     "id": "mp-9362",
@@ -78140,7 +80150,12 @@
       }
     },
     "best_ZT": 0.3182,
-    "best_PF": 0.0045
+    "best_PF": 0.0045,
+    "space_group": "166",
+    "space_group_type": "R-3m",
+    "point_group": "-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "2.254"
   },
   {
     "id": "mp-9363",
@@ -78330,7 +80345,12 @@
       }
     },
     "best_ZT": 0.2581,
-    "best_PF": 0.0034
+    "best_PF": 0.0034,
+    "space_group": "166",
+    "space_group_type": "R-3m",
+    "point_group": "-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "2.2499"
   },
   {
     "id": "mp-9364",
@@ -78520,7 +80540,12 @@
       }
     },
     "best_ZT": 0.2104,
-    "best_PF": 0.0029
+    "best_PF": 0.0029,
+    "space_group": "166",
+    "space_group_type": "R-3m",
+    "point_group": "-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "2.2607"
   },
   {
     "id": "mp-9365",
@@ -78710,7 +80735,12 @@
       }
     },
     "best_ZT": 0.1368,
-    "best_PF": 0.002
+    "best_PF": 0.002,
+    "space_group": "166",
+    "space_group_type": "R-3m",
+    "point_group": "-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "2.2908"
   },
   {
     "id": "mp-9366",
@@ -78900,7 +80930,12 @@
       }
     },
     "best_ZT": 0.0928,
-    "best_PF": 0.0015
+    "best_PF": 0.0015,
+    "space_group": "166",
+    "space_group_type": "R-3m",
+    "point_group": "-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "2.3144"
   },
   {
     "id": "mp-9367",
@@ -79090,7 +81125,12 @@
       }
     },
     "best_ZT": 0.1023,
-    "best_PF": 0.0018
+    "best_PF": 0.0018,
+    "space_group": "166",
+    "space_group_type": "R-3m",
+    "point_group": "-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "2.315"
   },
   {
     "id": "mp-9368",
@@ -79280,7 +81320,12 @@
       }
     },
     "best_ZT": 0.1125,
-    "best_PF": 0.0016
+    "best_PF": 0.0016,
+    "space_group": "166",
+    "space_group_type": "R-3m",
+    "point_group": "-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "2.3431"
   },
   {
     "id": "mp-9370",
@@ -79470,7 +81515,12 @@
       }
     },
     "best_ZT": 0.0968,
-    "best_PF": 0.0014
+    "best_PF": 0.0014,
+    "space_group": "166",
+    "space_group_type": "R-3m",
+    "point_group": "-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "2.3728"
   },
   {
     "id": "mp-9437",
@@ -79660,7 +81710,12 @@
       }
     },
     "best_ZT": 0.0812,
-    "best_PF": 0.0079
+    "best_PF": 0.0079,
+    "space_group": "216",
+    "space_group_type": "F-43m",
+    "point_group": "-43m",
+    "band_character": "Indirect",
+    "band_gap_csv": "0.5446"
   },
   {
     "id": "mp-947",
@@ -79850,7 +81905,12 @@
       }
     },
     "best_ZT": 0.3242,
-    "best_PF": 0.0071
+    "best_PF": 0.0071,
+    "space_group": "224",
+    "space_group_type": "Pn-3m",
+    "point_group": "m-3m",
+    "band_character": "Direct",
+    "band_gap_csv": "2.0141"
   },
   {
     "id": "mp-9567",
@@ -80040,7 +82100,12 @@
       }
     },
     "best_ZT": 0.5111,
-    "best_PF": 0.0039
+    "best_PF": 0.0039,
+    "space_group": "164",
+    "space_group_type": "P-3m1",
+    "point_group": "-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "0.8447"
   },
   {
     "id": "mp-9569",
@@ -80230,7 +82295,12 @@
       }
     },
     "best_ZT": 0.4372,
-    "best_PF": 0.0021
+    "best_PF": 0.0021,
+    "space_group": "164",
+    "space_group_type": "P-3m1",
+    "point_group": "-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "0.8608"
   },
   {
     "id": "mp-9570",
@@ -80420,7 +82490,12 @@
       }
     },
     "best_ZT": 0.3957,
-    "best_PF": 0.0043
+    "best_PF": 0.0043,
+    "space_group": "164",
+    "space_group_type": "P-3m1",
+    "point_group": "-3m",
+    "band_character": "Direct",
+    "band_gap_csv": "0.8644"
   },
   {
     "id": "mp-961673",
@@ -80610,7 +82685,12 @@
       }
     },
     "best_ZT": 0.4736,
-    "best_PF": 0.0234
+    "best_PF": 0.0234,
+    "space_group": "216",
+    "space_group_type": "F-43m",
+    "point_group": "-43m",
+    "band_character": "Indirect",
+    "band_gap_csv": "0.9934"
   },
   {
     "id": "mp-961685",
@@ -80800,7 +82880,12 @@
       }
     },
     "best_ZT": 1.5355,
-    "best_PF": 0.0011
+    "best_PF": 0.0011,
+    "space_group": "216",
+    "space_group_type": "F-43m",
+    "point_group": "-43m",
+    "band_character": "Indirect",
+    "band_gap_csv": "1.6288"
   },
   {
     "id": "mp-961687",
@@ -80990,7 +83075,12 @@
       }
     },
     "best_ZT": 0.2163,
-    "best_PF": 0.0078
+    "best_PF": 0.0078,
+    "space_group": "216",
+    "space_group_type": "F-43m",
+    "point_group": "-43m",
+    "band_character": "Indirect",
+    "band_gap_csv": "0.4725"
   },
   {
     "id": "mp-961693",
@@ -81180,7 +83270,12 @@
       }
     },
     "best_ZT": 0.7381,
-    "best_PF": 0.0152
+    "best_PF": 0.0152,
+    "space_group": "216",
+    "space_group_type": "F-43m",
+    "point_group": "-43m",
+    "band_character": "Indirect",
+    "band_gap_csv": "0.4533"
   },
   {
     "id": "mp-961713",
@@ -81370,7 +83465,12 @@
       }
     },
     "best_ZT": 0.2273,
-    "best_PF": 0.0056
+    "best_PF": 0.0056,
+    "space_group": "216",
+    "space_group_type": "F-43m",
+    "point_group": "-43m",
+    "band_character": "Indirect",
+    "band_gap_csv": "0.9745"
   },
   {
     "id": "mp-978847",
@@ -81560,7 +83660,12 @@
       }
     },
     "best_ZT": 0.2484,
-    "best_PF": 0.0074
+    "best_PF": 0.0074,
+    "space_group": "156",
+    "space_group_type": "P3m1",
+    "point_group": "3m",
+    "band_character": "Direct",
+    "band_gap_csv": "0.3876"
   },
   {
     "id": "mp-978852",
@@ -81750,7 +83855,12 @@
       }
     },
     "best_ZT": 0.3242,
-    "best_PF": 0.0092
+    "best_PF": 0.0092,
+    "space_group": "156",
+    "space_group_type": "P3m1",
+    "point_group": "3m",
+    "band_character": "Direct",
+    "band_gap_csv": "0.4275"
   },
   {
     "id": "mp-980057",
@@ -81940,7 +84050,12 @@
       }
     },
     "best_ZT": 0.3228,
-    "best_PF": 0.0081
+    "best_PF": 0.0081,
+    "space_group": "156",
+    "space_group_type": "P3m1",
+    "point_group": "3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "0.7042"
   },
   {
     "id": "mp-981",
@@ -82130,7 +84245,12 @@
       }
     },
     "best_ZT": 0.7731,
-    "best_PF": 0.0006
+    "best_PF": 0.0006,
+    "space_group": "225",
+    "space_group_type": "Fm-3m",
+    "point_group": "m-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "7.149"
   },
   {
     "id": "mp-985586",
@@ -82320,7 +84440,12 @@
       }
     },
     "best_ZT": 0.3807,
-    "best_PF": 0.0013
+    "best_PF": 0.0013,
+    "space_group": "221",
+    "space_group_type": "Pm-3m",
+    "point_group": "m-3m",
+    "band_character": "Direct",
+    "band_gap_csv": "1.9832"
   },
   {
     "id": "mp-9915",
@@ -82510,7 +84635,12 @@
       }
     },
     "best_ZT": 0.0583,
-    "best_PF": 0.0023
+    "best_PF": 0.0023,
+    "space_group": "129",
+    "space_group_type": "P4/nmm",
+    "point_group": "4/mmm",
+    "band_character": "Indirect",
+    "band_gap_csv": "1.1527"
   },
   {
     "id": "mp-9919",
@@ -82700,7 +84830,12 @@
       }
     },
     "best_ZT": 0.2448,
-    "best_PF": 0.004
+    "best_PF": 0.004,
+    "space_group": "186",
+    "space_group_type": "P6_3mc",
+    "point_group": "6mm",
+    "band_character": "Indirect",
+    "band_gap_csv": "0.3848"
   },
   {
     "id": "mp-997089",
@@ -82890,7 +85025,12 @@
       }
     },
     "best_ZT": 0.0122,
-    "best_PF": 0.0009
+    "best_PF": 0.0009,
+    "space_group": "12",
+    "space_group_type": "C2/m",
+    "point_group": "2/m",
+    "band_character": "Indirect",
+    "band_gap_csv": "1.3673"
   },
   {
     "id": "mp-999121",
@@ -83080,7 +85220,12 @@
       }
     },
     "best_ZT": 0.4963,
-    "best_PF": 0.0019
+    "best_PF": 0.0019,
+    "space_group": "166",
+    "space_group_type": "R-3m",
+    "point_group": "-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "0.6012"
   },
   {
     "id": "mp-999126",
@@ -83270,7 +85415,12 @@
       }
     },
     "best_ZT": 0.1735,
-    "best_PF": 0.0027
+    "best_PF": 0.0027,
+    "space_group": "166",
+    "space_group_type": "R-3m",
+    "point_group": "-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "2.2501"
   },
   {
     "id": "mp-999127",
@@ -83460,7 +85610,12 @@
       }
     },
     "best_ZT": 0.0997,
-    "best_PF": 0.0013
+    "best_PF": 0.0013,
+    "space_group": "166",
+    "space_group_type": "R-3m",
+    "point_group": "-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "1.7958"
   },
   {
     "id": "mp-999129",
@@ -83650,7 +85805,12 @@
       }
     },
     "best_ZT": 0.0957,
-    "best_PF": 0.0016
+    "best_PF": 0.0016,
+    "space_group": "166",
+    "space_group_type": "R-3m",
+    "point_group": "-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "2.2999"
   },
   {
     "id": "mp-999132",
@@ -84137,7 +86297,12 @@
       }
     },
     "best_ZT": 0.3375,
-    "best_PF": 0.0016
+    "best_PF": 0.0016,
+    "space_group": "166",
+    "space_group_type": "R-3m",
+    "point_group": "-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "0.6042"
   },
   {
     "id": "mp-999137",
@@ -84327,7 +86492,12 @@
       }
     },
     "best_ZT": 0.1663,
-    "best_PF": 0.0012
+    "best_PF": 0.0012,
+    "space_group": "166",
+    "space_group_type": "R-3m",
+    "point_group": "-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "1.1724"
   },
   {
     "id": "mp-999265",
@@ -84517,7 +86687,12 @@
       }
     },
     "best_ZT": 0.1181,
-    "best_PF": 0.0019
+    "best_PF": 0.0019,
+    "space_group": "166",
+    "space_group_type": "R-3m",
+    "point_group": "-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "2.3275"
   },
   {
     "id": "mp-999269",
@@ -84707,7 +86882,12 @@
       }
     },
     "best_ZT": 0.1361,
-    "best_PF": 0.001
+    "best_PF": 0.001,
+    "space_group": "166",
+    "space_group_type": "R-3m",
+    "point_group": "-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "1.2892"
   },
   {
     "id": "mp-999288",
@@ -84897,7 +87077,12 @@
       }
     },
     "best_ZT": 0.5148,
-    "best_PF": 0.0014
+    "best_PF": 0.0014,
+    "space_group": "166",
+    "space_group_type": "R-3m",
+    "point_group": "-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "0.6424"
   },
   {
     "id": "mp-999289",
@@ -85087,7 +87272,12 @@
       }
     },
     "best_ZT": 0.1633,
-    "best_PF": 0.001
+    "best_PF": 0.001,
+    "space_group": "166",
+    "space_group_type": "R-3m",
+    "point_group": "-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "1.1844"
   },
   {
     "id": "mp-999319",
@@ -85277,7 +87467,12 @@
       }
     },
     "best_ZT": 0.5088,
-    "best_PF": 0.0015
+    "best_PF": 0.0015,
+    "space_group": "166",
+    "space_group_type": "R-3m",
+    "point_group": "-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "0.6002"
   },
   {
     "id": "mp-999447",
@@ -85467,7 +87662,12 @@
       }
     },
     "best_ZT": 0.2215,
-    "best_PF": 0.0014
+    "best_PF": 0.0014,
+    "space_group": "166",
+    "space_group_type": "R-3m",
+    "point_group": "-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "1.106"
   },
   {
     "id": "mp-999460",
@@ -85657,7 +87857,12 @@
       }
     },
     "best_ZT": 0.0461,
-    "best_PF": 0.001
+    "best_PF": 0.001,
+    "space_group": "166",
+    "space_group_type": "R-3m",
+    "point_group": "-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "1.6581"
   },
   {
     "id": "mp-999461",
@@ -85847,7 +88052,12 @@
       }
     },
     "best_ZT": 0.104,
-    "best_PF": 0.0013
+    "best_PF": 0.0013,
+    "space_group": "166",
+    "space_group_type": "R-3m",
+    "point_group": "-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "1.7498"
   },
   {
     "id": "mp-999471",
@@ -86037,7 +88247,12 @@
       }
     },
     "best_ZT": 0.1432,
-    "best_PF": 0.0017
+    "best_PF": 0.0017,
+    "space_group": "166",
+    "space_group_type": "R-3m",
+    "point_group": "-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "1.763"
   },
   {
     "id": "mp-999472",
@@ -86227,7 +88442,12 @@
       }
     },
     "best_ZT": 0.0689,
-    "best_PF": 0.0008
+    "best_PF": 0.0008,
+    "space_group": "166",
+    "space_group_type": "R-3m",
+    "point_group": "-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "2.1423"
   },
   {
     "id": "mp-999474",
@@ -86417,7 +88637,12 @@
       }
     },
     "best_ZT": 0.0953,
-    "best_PF": 0.0011
+    "best_PF": 0.0011,
+    "space_group": "166",
+    "space_group_type": "R-3m",
+    "point_group": "-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "1.8495"
   },
   {
     "id": "mp-999490",
@@ -86607,6 +88832,11 @@
       }
     },
     "best_ZT": 0.0977,
-    "best_PF": 0.0016
+    "best_PF": 0.0016,
+    "space_group": "166",
+    "space_group_type": "R-3m",
+    "point_group": "-3m",
+    "band_character": "Indirect",
+    "band_gap_csv": "2.2473"
   }
 ]
