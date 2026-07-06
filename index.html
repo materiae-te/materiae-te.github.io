@@ -552,7 +552,7 @@ async function init() {
             return na - nb;
         });
         document.getElementById('header-stats').innerHTML =
-            `<b>${allMaterials.length}</b> materials · Max ZT: <b>${allMaterials.reduce((m,x)=>Math.max(m,x.best_ZT||0),0).toFixed(3)}</b>`;
+            `<b>${allMaterials.length}</b> materials`;
         renderGrid(allMaterials);
     } catch(e) {
         document.getElementById('material-grid').innerHTML =
@@ -571,10 +571,6 @@ function renderGrid(materials) {
     }
 
     grid.innerHTML = materials.map(m => {
-        const zt = m.best_ZT || 0;
-        const ztClass = zt >= 1.0 ? 'zt-high' : zt >= 0.5 ? 'zt-mid' : 'zt-low';
-        const ztText = zt > 0 ? zt.toFixed(3) : '-';
-
         let icons = '';
         if (m.has_band) icons += '<span>📊Band</span>';
         if (m.has_dispersion) icons += '<span>🔊Disp</span>';
@@ -584,7 +580,6 @@ function renderGrid(materials) {
         return `<div class="material-card" onclick="openDetail('${m.id}')">
             <div class="mp-id">${m.id}</div>
             <div class="formula">${m.formula || 'Unknown'}</div>
-            <div class="zt-badge ${ztClass}">ZT ${ztText}</div>
             <div class="icons">${icons || '-'}</div>
         </div>`;
     }).join('');
